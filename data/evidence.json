@@ -1,0 +1,2701 @@
+{
+  "meta": {
+    "title": "Evidence Bank",
+    "organization": "South-East Political Appointees Forum (SEPAF)",
+    "prepared": "9 November 2026",
+    "scope": "What President Bola Ahmed Tinubu’s administration has delivered for the South-East since May 2023.",
+    "summary": [
+      "Its own federal development commission, the South East Development Commission (SEDC)",
+      "Thirteen top federal posts, including Foreign Affairs and Works",
+      "About ₦87bn paid or invested straight into its students, borrowers, small businesses and campuses",
+      "43 federal road projects under way (1,704 km) and 10 completed, backed by more than ₦1.5 trillion of road contracts revived, approved or started",
+      "128 emergency road repairs completed across the five states",
+      "The Port Harcourt–Aba railway running again",
+      "Six new federal tertiary institutions"
+    ],
+    "methodology": "Compiled by the South-East Political Appointees Forum (SEPAF) from government sources, agency reports, a South-East road projects status workbook (as at 18 October 2026) and established Nigerian media, as at 9 November 2026. Every item links to its sources. Items are ranked by impact: scale, people reached and visibility in the South-East. “Completed” means delivered; “Ongoing”, “Approved / funded” and “Announced” mark work that is not yet complete. Where a South-East figure is derived as a share of a national total, the share is shown."
+  },
+  "metrics": [
+    {
+      "featured": true,
+      "target": "r35",
+      "value": "₦87bn",
+      "label": "paid or invested straight into South-East students, borrowers, small businesses and campuses",
+      "detail": "NELFUND loans ₦41bn · Family Homes Fund Limited student housing ₦18.69bn · Bank of Industry loans and grants ₦11.1bn · CREDICORP credit ₦8.9bn · TETFund buildings ₦7.2bn. About ₦61bn of it went directly to people and businesses. Excludes roads, rail and power.",
+      "references": "From items #35, #36, #37, #57, #58, #59, #60, #72"
+    },
+    {
+      "featured": true,
+      "target": "r35",
+      "value": "287,000+",
+      "label": "South-Easterners and small businesses reached with student loans, consumer credit, business loans or grants",
+      "detail": "NELFUND about 128,000 students · Bank of Industry 108,659 businesses (108,326 grants, 333 loans) · CREDICORP about 51,250 borrowers. Plus 34,160 farmers given subsidised inputs.",
+      "references": "From items #35, #36, #37, #77, #78"
+    },
+    {
+      "featured": false,
+      "target": "r8",
+      "value": "13",
+      "label": "South-Easterners in top federal posts, three at the very top",
+      "detail": "Minister of Foreign Affairs (Odumegwu-Ojukwu), Minister of Works (Umahi), Chief of the Air Staff (Aneke) · 6 ministers in all · 2 service chiefs · heads of CREDICORP, MOFI, NDPHC and SEDC, and a CBN Deputy Governor.",
+      "references": "From items #8, #9, #10, #11, #12, #13"
+    },
+    {
+      "featured": false,
+      "target": "r15",
+      "value": "₦1.5trn+",
+      "label": "of South-East road contracts revived, approved or under way since 2023",
+      "detail": "Calabar–Ebonyi legacy road ₦454bn · Enugu–Onitsha ₦300bn (excluding work done before 2023) · Ebonyi concrete roads ₦248bn · Amasiri–Okigwe ₦193bn · Second Niger Bridge access ₦176bn · Aba–Port Harcourt ₦83bn · four more ₦62bn. Some are tax-credit funded (MTN, Dangote).",
+      "references": "From items #15, #18, #19, #20, #22, #23, #24, #28"
+    },
+    {
+      "featured": false,
+      "target": "r14",
+      "value": "1,704 km",
+      "label": "of federal roads under construction in 43 South-East projects",
+      "detail": "Plus 10 projects completed (342.8 km) and 128 emergency road repairs finished, as at 18 October 2026. 27 of the 53 projects are new contracts. Lengths count both carriageways on dual roads.",
+      "references": "From items #14, #15, #17, #18, #19, #21"
+    },
+    {
+      "featured": false,
+      "target": "r1",
+      "value": "₦165bn SEDC",
+      "label": "2026 budget for the zone's own federal development commission",
+      "detail": "SEDC Act signed July 2024 · board inaugurated Feb 2025 · ₦140bn federal + ₦25bn from the five governors · South East Investment Company with a ₦150bn+ capital target.",
+      "references": "From items #1, #2, #3, #4"
+    },
+    {
+      "featured": false,
+      "target": "r52",
+      "value": "6",
+      "label": "new federal universities and colleges",
+      "detail": "Running: Alvan Ikoku Federal University of Education (Owerri), Federal University of Allied Health Sciences (Enugu). Signed into law: FUMHS Item and FCE Bende (Abia), Federal University Okigwe (Imo), Federal University of Agriculture Ako-Nike (Enugu).",
+      "references": "From items #52, #53, #54, #55"
+    },
+    {
+      "featured": false,
+      "target": "r72",
+      "value": "7,168",
+      "label": "homes and student beds approved or under way",
+      "detail": "1,700 Renewed Hope homes (Umuahia 1,200, Bende 250, Ezza North 250) · 5,468 student hostel beds at ESUT, UNN, FUTO and Fed Poly Nekede.",
+      "references": "From items #72, #73, #74, #75"
+    },
+    {
+      "featured": false,
+      "target": "r16",
+      "value": "62.8 km",
+      "label": "Port Harcourt–Aba railway rebuilt, with trains running since May 2024",
+      "detail": "Part of the US$3.02bn Eastern line. Handed to the NRC in November 2024.",
+      "references": "From items #16"
+    },
+    {
+      "featured": false,
+      "target": "r65",
+      "value": "141 MW",
+      "label": "Aba power plant commissioned; 4 of 5 states now run their own power markets",
+      "detail": "Aba Integrated Power Project (Feb 2024) · ANOH gas plant, Imo (May 2024) · Electricity Act 2023: Enugu first in Nigeria, then Imo, Abia and Anambra.",
+      "references": "From items #65, #66, #67"
+    }
+  ],
+  "themes": [
+    {
+      "id": "governance",
+      "number": "01",
+      "title": "Development commission & governance",
+      "description": "The South East Development Commission and the institutions behind it.",
+      "count": 7
+    },
+    {
+      "id": "appointments",
+      "number": "02",
+      "title": "Political appointments & representation",
+      "description": "South-Easterners in the cabinet, the service chiefs and federal agencies.",
+      "count": 6
+    },
+    {
+      "id": "transport",
+      "number": "03",
+      "title": "Roads, rail & transport",
+      "description": "Highways, bridges, railways, ports and airports.",
+      "count": 21
+    },
+    {
+      "id": "credit",
+      "number": "04",
+      "title": "Student loans, credit & enterprise",
+      "description": "NELFUND, CREDICORP and support for small businesses.",
+      "count": 17
+    },
+    {
+      "id": "education",
+      "number": "05",
+      "title": "Education & universities",
+      "description": "New federal institutions and investment in campuses.",
+      "count": 13
+    },
+    {
+      "id": "power",
+      "number": "06",
+      "title": "Power & energy",
+      "description": "Power plants, gas and state electricity markets.",
+      "count": 7
+    },
+    {
+      "id": "housing",
+      "number": "07",
+      "title": "Housing",
+      "description": "Renewed Hope homes and student hostels.",
+      "count": 5
+    },
+    {
+      "id": "economy",
+      "number": "08",
+      "title": "Jobs, agriculture & the digital economy",
+      "description": "Farm inputs, digital skills, industry and artisan training.",
+      "count": 11
+    },
+    {
+      "id": "health",
+      "number": "09",
+      "title": "Health & security",
+      "description": "Hospitals and health services, and security in the zone.",
+      "count": 7
+    }
+  ],
+  "achievements": [
+    {
+      "id": "r1",
+      "kind": "achievement",
+      "rank": 1,
+      "theme": "governance",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2024-07",
+      "title": "Tinubu signs South East Development Commission (SEDC) Act",
+      "figure": "",
+      "description": "President Tinubu signed the South-East Development Commission establishment bill into law alongside the North-West commission bill. The commission's mandate is reconstruction and rehabilitation of roads, houses and other infrastructure in the zone and tackling its ecological and developmental challenges.",
+      "creditedTo": "Presidency; National Assembly (bill championed by Deputy Speaker Benjamin Kalu)",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2024/07/24/president-tinubu-signs-development-bills-for-north-west-and-south-east-commissions",
+          "label": "Nairametrics: President Tinubu signs development bills for North West and South East commissions (24 Jul 2024)"
+        },
+        {
+          "url": "https://thisdaylive.com/index.php/2024/07/25/tinubu-signs-north-west-south-east-devt-commission-bills-into-law",
+          "label": "ThisDay: Tinubu signs North-west, South-east Devt Commission bills into law"
+        },
+        {
+          "url": "https://nannews.ng/2024/07/24/tinubu-signs-development-commission-establishment-bills",
+          "label": "NAN: Tinubu signs development commission establishment bills"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "kind": "achievement",
+      "rank": 2,
+      "theme": "governance",
+      "status": "Approved / funded",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2025-07",
+      "title": "Tinubu approves South East Investment Company (SEIC) with N150bn+ capital base",
+      "figure": "Projected blended capital base over N150bn; pilot investments targeted from Q4 2025",
+      "description": "Tinubu approved the South East Investment Company as an SEDC subsidiary and presented its Certificate of Incorporation at the State House. It is meant to evolve into a PPP with the five states, private investors, DFIs and the diaspora, raising funds through bonds, equity and callable capital.",
+      "creditedTo": "Presidency; SEDC",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2025/07/18/president-tinubu-approves-south-east-investment-company-with-n150-billion-capital-base/",
+          "label": "Nairametrics: President Tinubu approves South East Investment Company with N150 billion capital base (18 Jul 2025)"
+        },
+        {
+          "url": "https://www.thecable.ng/tinubu-approves-establishment-of-south-east-investment-company-to-drive-industrial-growth",
+          "label": "TheCable: Tinubu approves establishment of South East Investment Company"
+        },
+        {
+          "url": "https://businessday.ng/news/article/tinubu-creates-approves-n150bn-take-off-capital-for-south-east-investment-company/",
+          "label": "BusinessDay: Tinubu creates, approves N150bn take-off capital for South East Investment Company"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "kind": "achievement",
+      "rank": 3,
+      "theme": "governance",
+      "status": "Approved / funded",
+      "sector": "Institutions & governance",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2026-03",
+      "title": "SEDC 2026 budget: N140bn plus N25bn from the five governors",
+      "figure": "N140bn (N108bn capital; N23bn overhead; N7.3bn personnel); +N25bn from governors (N5bn each) = N165bn; 2026 lines incl. N24.5bn regional economic & industrial programme, N10.5bn regional interventions, N10.25bn matching grants to states; ~N2.8bn/month since Jan 2026",
+      "description": "SEDC defended a N140 billion 2026 budget (N108bn capital, N23bn overhead, N7.3bn personnel), approved by the House committee in March 2026. The five South-East governors agreed to contribute N5 billion each, giving N165 billion combined. A ThisDay article reports SEDC has received about N2.8bn monthly since January 2026.",
+      "creditedTo": "SEDC; National Assembly; South-East governors",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2026/02/25/south-east-development-commission-seeks-n140-billion-2026-budget-approval/",
+          "label": "Nairametrics: SEDC seeks N140 billion 2026 budget approval"
+        },
+        {
+          "url": "https://thefrontierng.com/governors-inject-n25-billion-into-south-east-development-commission-2026-budget/",
+          "label": "The Frontier: Governors inject N25 billion into SEDC 2026 budget"
+        },
+        {
+          "url": "https://allafrica.com/stories/202603060116.html",
+          "label": "AllAfrica: Reps approve N140bn budget for South East Development Commission (5 Mar 2026)"
+        },
+        {
+          "url": "https://www.thisdaylive.com/2026/06/20/how-sedc-achieved-major-milestones-since-inauguration/",
+          "label": "ThisDay: How SEDC achieved major milestones since inauguration"
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "kind": "achievement",
+      "rank": 4,
+      "theme": "governance",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2025-02",
+      "title": "SEDC board and management appointed, confirmed and inaugurated",
+      "figure": "",
+      "description": "Tinubu nominated the SEDC board in late 2024, reconstituted it in December 2024 (new chairman and executive directors; Mark Okoye retained as MD/CEO), the Senate confirmed the board on 14 January 2025, and it was inaugurated on 11 February 2025. Executive directors confirmed include Stanley Ohajuruka (Finance), Sylvester Okonkwo (Corporate Services), Toby Okechukwu (Projects), Anthony Agbo (Commercial & Industrial Development) and Clifford Ogbede (Natural Resources, Agriculture & Rural Development).",
+      "creditedTo": "Presidency; Senate; SEDC",
+      "sources": [
+        {
+          "url": "https://www.channelstv.com/2025/01/14/senate-confirms-okoye-maaji-32-others-for-sedc-nwdc-boards",
+          "label": "Channels TV: Senate confirms Okoye, Ma'aji, 32 others for SEDC, NWDC boards"
+        },
+        {
+          "url": "https://blueprint.ng/south-east-people-excited-over-tinubus-rejig-of-sedc-inaugural-board-igbo-think-tank/",
+          "label": "Blueprint: South-east people excited over Tinubu's rejig of SEDC inaugural board"
+        },
+        {
+          "url": "https://von.gov.ng/?p=372136",
+          "label": "VON: President Tinubu reshuffles North-West, South-East Development Commission boards"
+        },
+        {
+          "url": "https://www.thisdaylive.com/2026/06/20/how-sedc-achieved-major-milestones-since-inauguration/",
+          "label": "ThisDay: How SEDC achieved major milestones since inauguration (20 Jun 2026)"
+        },
+        {
+          "url": "https://leadership.ng/tinubu-inaugurates-sedc-nwdc-boards-outlines-growth-agenda",
+          "label": "Leadership: Tinubu inaugurates SEDC, NWDC boards"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "kind": "achievement",
+      "rank": 5,
+      "theme": "governance",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2026-02",
+      "title": "VP Shettima launches 25-year South-East Vision 2050 in Enugu",
+      "figure": "25-year plan; target $200bn regional economy in 10 years",
+      "description": "At a Regional Stakeholders' Forum in Enugu, Vice President Shettima launched the South-East Vision 2050 development blueprint prepared with SEDC, describing SEDC as 'not another layer of bureaucracy' but a delivery institution. SEDC targets a $200bn regional economy within 10 years.",
+      "creditedTo": "Office of the Vice President; SEDC; South-East governors",
+      "sources": [
+        {
+          "url": "https://www.arise.tv/shettima-launches-south-east-vision-2050-calls-region-pillar-of-nigerias-economic-future",
+          "label": "Arise: Shettima launches South East Vision 2050"
+        },
+        {
+          "url": "https://statehouse.gov.ng/?p=62080",
+          "label": "State House: VP Shettima launches Vision 2050 blueprint for South-East's economic development"
+        },
+        {
+          "url": "https://www.arise.tv/senate-endorses-sedcs-200bn-south-east-economy-plan-warns-against-mismanagement",
+          "label": "Arise: Senate endorses SEDC's $200bn South-East economy plan, warns against mismanagement"
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "kind": "achievement",
+      "rank": 6,
+      "theme": "governance",
+      "status": "Ongoing",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2026-06",
+      "title": "SEDC early programmes: UNDP partnership, venture fund, feasibility studies (SEDC's own account)",
+      "figure": "10,000 hectares requested per state for agro-mechanisation",
+      "description": "SEDC reports an MoU with UNDP, a South East Venture Capital Programme launched in May 2026, feasibility studies on intra-regional rail, a seaport, gas infrastructure and highways, agro-mechanisation site mapping (requesting 10,000 ha per state), and a review of defunct industries (ANAMCO, Nkalagu Cement, Golden Guinea Brewery). Enugu's governor donated a four-storey headquarters building.",
+      "creditedTo": "SEDC",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2026/06/20/how-sedc-achieved-major-milestones-since-inauguration/",
+          "label": "ThisDay: How SEDC achieved major milestones since inauguration (20 Jun 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "kind": "achievement",
+      "rank": 7,
+      "theme": "governance",
+      "status": "Approved / funded",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2024-10",
+      "title": "Senate amends regional commission bills to fund them with 15% of member states' allocations",
+      "figure": "15% of member states' statutory allocations",
+      "description": "The Senate amended the regional development commission bills (including the SEDC) so that the commissions receive 15% of member states' statutory allocations, deducted from the Consolidated Revenue Fund. Senate President Akpabio cited section 162(4) of the Constitution.",
+      "creditedTo": "Senate (Committee on Special Duties)",
+      "sources": [
+        {
+          "url": "https://allafrica.com/stories/202410250175.html",
+          "label": "AllAfrica/ThisDay: Senate amends bill to allow regional commissions receive 15% of states' allocations"
+        },
+        {
+          "url": "https://guardian.ng/?p=2451626",
+          "label": "Guardian: Anxiety as FG 'commits' states' funds to special devt commissions"
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "kind": "achievement",
+      "rank": 8,
+      "theme": "appointments",
+      "status": "Ongoing",
+      "sector": "Appointments & representation",
+      "location": "Anambra",
+      "date": "2026-04",
+      "title": "Bianca Odumegwu-Ojukwu: from Minister of State to Minister of Foreign Affairs",
+      "figure": "",
+      "description": "In the October 2024 reshuffle Tinubu removed Anambra's Uju Kennedy-Ohanenye (Women Affairs) and appointed APGA's Bianca Odumegwu-Ojukwu Minister of State for Foreign Affairs (sworn in 4 November 2024). In April 2026 he appointed her Minister of Foreign Affairs after Yusuf Tuggar resigned to contest in 2027.",
+      "creditedTo": "Presidency; Ministry of Foreign Affairs",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2024/10/27/key-takeaways-in-tinubus-cabinet-reshuffle/",
+          "label": "ThisDay: Key takeaways in Tinubu's cabinet reshuffle"
+        },
+        {
+          "url": "https://nairametrics.com/2024/11/04/president-tinubu-swears-in-seven-new-ministers",
+          "label": "Nairametrics: President Tinubu swears in seven new ministers (4 Nov 2024)"
+        },
+        {
+          "url": "https://21stcenturychronicle.com/tinubu-promotes-ojukwu-as-foreign-minister/",
+          "label": "21st Century Chronicle: Tinubu promotes Ojukwu as Foreign Minister (30 Apr 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "kind": "achievement",
+      "rank": 9,
+      "theme": "appointments",
+      "status": "Ongoing",
+      "sector": "Appointments & representation",
+      "location": "Ebonyi",
+      "date": "2023-08",
+      "title": "Dave Umahi: Minister of Works since August 2023",
+      "figure": "Onoh cited Enugu-Ebonyi road valued at N180bn",
+      "description": "Former Ebonyi governor Dave Umahi has served as Minister of Works since August 2023, overseeing federal road works including South-East corridors (Enugu-Onitsha, Enugu-Port Harcourt). In April 2026 Josef Onoh, former Southeast spokesman to Tinubu, called him the cabinet's best-performing minister.",
+      "creditedTo": "Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/umahi-best-performing-minister-driving-southeast-infrastructure-growth-onoh/",
+          "label": "FMINO: Umahi best-performing minister driving Southeast infrastructure growth - Onoh (Apr 2026)"
+        },
+        {
+          "url": "https://nairametrics.com/2023/08/17/here-are-tinubus-ministers-from-the-south-east-and-their-portfolio",
+          "label": "Nairametrics: Tinubu's ministers from the South East"
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "kind": "achievement",
+      "rank": 10,
+      "theme": "appointments",
+      "status": "Ongoing",
+      "sector": "Appointments & representation",
+      "location": "Imo",
+      "date": "2026-03",
+      "title": "Doris Uzoka-Anite: three portfolios (Industry, Finance, Budget)",
+      "figure": "",
+      "description": "Imo's Doris Uzoka-Anite was Minister of Industry, Trade & Investment (Aug 2023), moved to Minister of State for Finance in the October 2024 reshuffle, and in March 2026 was redeployed to Minister of State, Budget and National Planning when Taiwo Oyedele was nominated for Finance.",
+      "creditedTo": "Presidency",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2024/10/27/key-takeaways-in-tinubus-cabinet-reshuffle/",
+          "label": "ThisDay: Key takeaways in Tinubu's cabinet reshuffle (27 Oct 2024)"
+        },
+        {
+          "url": "https://guardian.ng/news/tinubu-reshuffles-finance-ministry-nominates-oyedele-as-minister-of-state/",
+          "label": "Guardian: Tinubu reshuffles finance ministry, nominates Oyedele as minister of state"
+        },
+        {
+          "url": "https://ground.news/article/tinubu-nominates-taiwo-oyedele-as-minister-of-state-finance-redeploys-anite-uzoka_a61270",
+          "label": "Ground News: Tinubu nominates Taiwo Oyedele as Minister of State, Finance, redeploys Anite-Uzoka"
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "kind": "achievement",
+      "rank": 11,
+      "theme": "appointments",
+      "status": "Completed",
+      "sector": "Appointments & representation",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2023-08",
+      "title": "Five South-East ministers in Tinubu's first cabinet",
+      "figure": "5 ministers",
+      "description": "Tinubu's first cabinet included one minister from each South-East state: Dave Umahi (Ebonyi, Works), Uche Nnaji (Enugu, Innovation, Science & Technology), Nkeiruka Onyejeocha (Abia, Minister of State Labour & Employment), Uju Kennedy-Ohanenye (Anambra, Women Affairs) and Doris Uzoka-Anite (Imo, Industry, Trade & Investment).",
+      "creditedTo": "Presidency",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2023/08/17/here-are-tinubus-ministers-from-the-south-east-and-their-portfolio",
+          "label": "Nairametrics: Here are Tinubu's ministers from the South East and their portfolios (17 Aug 2023)"
+        },
+        {
+          "url": "https://thisdaylive.com/index.php/2023/08/05/ministerial-appointment-again-seast-short-changed-with-no-zonal-representation",
+          "label": "ThisDay: Ministerial appointment: Again, S'East short-changed"
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "kind": "achievement",
+      "rank": 12,
+      "theme": "appointments",
+      "status": "Ongoing",
+      "sector": "Appointments & representation",
+      "location": "Enugu",
+      "date": "2025-10",
+      "title": "South-East service chiefs: Ogalla (Navy) and Aneke (Air Force)",
+      "figure": "",
+      "description": "Tinubu appointed Enugu-born Rear Admiral Emmanuel Ikechukwu Ogalla Chief of Naval Staff on 19 June 2023; he retired on 24 October 2025. The same day Tinubu appointed AVM Sunday Kelvin Aneke (Udi LGA, Enugu) as the 23rd Chief of the Air Staff; Governor Mbah publicly thanked Tinubu for the appointment in April 2026.",
+      "creditedTo": "Presidency; Armed Forces",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2023/06/20/meet-nigerias-new-chief-of-naval-staff-rear-admiral-ikechukwu-ogalla",
+          "label": "Nairametrics: Meet Nigeria's new Chief of Naval Staff, Rear Admiral Ikechukwu Ogalla (20 Jun 2023)"
+        },
+        {
+          "url": "https://von.gov.ng/meet-rear-admiral-idi-abbas-nigerias-new-chief-of-naval-staff/",
+          "label": "VON: Meet Rear Admiral Idi Abbas, Nigeria's new Chief of Naval Staff"
+        },
+        {
+          "url": "https://von.gov.ng/profile-of-new-chief-of-air-staff-sunday-aneke/",
+          "label": "VON: Profile of new Chief of Air Staff Sunday Aneke"
+        },
+        {
+          "url": "https://gazettengr.com/tinubus-govt-confirms-appointing-only-one-igbo-to-head-one-of-nigerias-22-security-agencies/",
+          "label": "Peoples Gazette: Tinubu's govt confirms appointing only one Igbo to head one of 22 security agencies (Nov 2024)"
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "kind": "achievement",
+      "rank": 13,
+      "theme": "appointments",
+      "status": "Ongoing",
+      "sector": "Appointments & representation",
+      "location": "Anambra, Abia, Ebonyi, Enugu, Imo",
+      "date": "2025-01",
+      "title": "Agency and parastatal heads from the South-East (selected)",
+      "figure": "",
+      "description": "Selected appointments: Philip Ikeazor as CBN Deputy Governor (nominated Sept 2023); Dr Armstrong Takang (Abia) as MD/CEO of the Ministry of Finance Incorporated (MOFI), the federal government’s asset manager (reappointed November 2023); Uzoma Nwagba as MD/CEO of the Nigerian Consumer Credit Corporation (CREDICORP, April 2024); Engr Jennifer Adighije (Abia) as MD/CEO of the Niger Delta Power Holding Company (NDPHC, August 2024), the first woman to lead it; Mark Okoye as SEDC MD/CEO (2024-25); and in January 2025 South-East nominees as board chairs of federal agencies and hospitals (e.g., Donatus Nwankpa, Abia, NISLT; Ijeoma Arodiogbu, Imo, David Umahi Federal University Teaching Hospital).",
+      "creditedTo": "Presidency",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2023/09/15/president-tinubu-nominates-new-cbn-governor-and-management-team/",
+          "label": "Nairametrics: President Tinubu nominates new CBN governor and management team (15 Sep 2023)"
+        },
+        {
+          "url": "https://thecable.ng/tinubu-reappoints-usman-as-mofi-board-chair-takang-returns-as-ceo",
+          "label": "TheCable: Tinubu reappoints Usman as MOFI board chair, Takang returns as CEO"
+        },
+        {
+          "url": "https://nairametrics.com/2023/11/25/tinubu-appoints-former-finance-minister-others-as-chairman-directors-ministry-of-finance-incorporated/",
+          "label": "Nairametrics: Tinubu appoints former finance minister, others as chairman, directors of Ministry of Finance Incorporated (25 Nov 2023)"
+        },
+        {
+          "url": "https://thecable.ng/tinubu-appoints-36-year-old-uzoma-nwagba-as-ceo-of-nigerian-consumer-credit-corporation",
+          "label": "TheCable: Tinubu appoints 36-year-old Uzoma Nwagba as CEO of CREDICORP"
+        },
+        {
+          "url": "https://thecable.ng/just-in-tinubu-appoints-jennifer-adighije-as-md-of-ndphc",
+          "label": "TheCable: Tinubu appoints Jennifer Adighije as MD of NDPHC"
+        },
+        {
+          "url": "https://themirroronline.com.ng/gov-otti-commends-president-tinubu-for-appointing-adighije-as-ceo-of-ndphc/",
+          "label": "The Mirror: Gov Otti commends President Tinubu for appointing Adighije as CEO of NDPHC"
+        },
+        {
+          "url": "https://www.thisdaylive.com/2025/01/24/tinubu-names-board-chairpersons-for-federal-agencies-parastatals/",
+          "label": "ThisDay: Tinubu names board chairpersons for federal agencies, parastatals (24 Jan 2025)"
+        },
+        {
+          "url": "https://www.pulse.ng/story/gbajabiamila-missing-as-tinubus-appointments-spark-regional-imbalance-outcry-2025041007211874546",
+          "label": "Pulse: Tinubu's appointments spark regional imbalance outcry"
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "kind": "achievement",
+      "rank": 14,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "South-East",
+      "date": "2026-10",
+      "title": "Federal roads in the South-East: 10 projects completed, 43 under way and 128 emergency repairs done",
+      "figure": "Completed: 10 projects, 342.8 km (5 new, 5 inherited). Ongoing: 43 projects, 1,704.2 km (22 new, 21 inherited); 677.0 km of it done. Total completed length (full and partial) 1,019.8 km. Bridges: 10. Emergency repairs completed: 128",
+      "description": "As at 18 October 2026, 10 federal road and bridge projects in the South-East had been completed (342.8 km, counting both carriageways on dual roads) and 43 were under way (1,704.2 km). Work on the ongoing projects had covered a further 677 km, bringing completed length, full and partial, to about 1,019.8 km. Ten bridges were completed or under way, and 128 emergency repair and special intervention projects (palliatives) had been finished across the five states. Of the 53 completed and ongoing projects, 27 are new contracts and 26 were inherited.",
+      "creditedTo": "Federal Government; Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "kind": "achievement",
+      "rank": 15,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "Enugu, Anambra",
+      "date": "2026-04",
+      "title": "Enugu–Onitsha Expressway: 214 km of dual carriageway; Enugu section completed and the road 74% done",
+      "figure": "214 km in total for both carriageways (107 km each way); Original contract ₦202bn (MTN tax credit), about ₦50bn of it done before 2023; 72 km concrete section about ₦150bn; total put at ₦350bn (Umahi, April 2026); first 15 km about 97% complete at opening; solar lights planned for 107 km; Status at 18 Oct 2026: Enugu section (33 km, SKECC) 100% complete; completion of the full 107 km road under the MTN tax-credit scheme 74.2% complete; rescoped Anambra section (40 km, SKECC) 9%",
+      "description": "The stalled Enugu–Onitsha dual carriageway was put back on a deadline (originally 10 May 2026) under MTN's road tax-credit scheme, and about 72 km was redesigned in reinforced concrete. Works Minister Umahi opened the first 15 km concrete section to traffic for Easter on 2 April 2026, while the 18 km and 39 km concrete sections were still under construction.",
+      "creditedTo": "Federal Ministry of Works; MTN Nigeria (tax-credit scheme)",
+      "sources": [
+        {
+          "url": "https://von.gov.ng/works-minister-commissions-sections-of-enugu-onitsha-expressway/",
+          "label": "VON: Works Minister commissions sections of Enugu–Onitsha Expressway (2 Apr 2026)"
+        },
+        {
+          "url": "https://gazettengr.com/tinubu-govt-to-spend-n350-billion-on-enugu-onitsha-highway/",
+          "label": "Peoples Gazette/NAN: Tinubu govt to spend N350bn on Enugu-Onitsha highway"
+        },
+        {
+          "url": "https://nairametrics.com/2025/02/27/fg-sets-may-2026-completion-deadline-for-enugu-onitsha-expressway-under-mtns-tax-credit-scheme/",
+          "label": "Nairametrics: FG sets May 2026 deadline for Enugu-Onitsha under MTN tax credit (27 Feb 2025)"
+        },
+        {
+          "url": "https://techeconomy.ng/fg-applauds-mtns-₦202bn-enugu-onitsha-expressway-project/",
+          "label": "Techeconomy: FG applauds MTN's ₦202bn Enugu-Onitsha project (19 Jan 2026)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "kind": "achievement",
+      "rank": 16,
+      "theme": "transport",
+      "status": "Completed",
+      "sector": "Rail, ports & airports",
+      "location": "Abia",
+      "date": "2024-05",
+      "title": "Port Harcourt–Aba rail section completed and passenger service begun",
+      "figure": "About 62–63 km section (62.8 km per handover report); part of the US$3.02bn Port Harcourt–Maiduguri project",
+      "description": "The rebuilt Port Harcourt–Aba segment of the Eastern narrow-gauge line was inaugurated by Transport Minister Saidu Alkali on 30 April 2024. Commercial service started in May 2024, and the section was formally handed to the NRC on 28 November 2024.",
+      "creditedTo": "Federal Ministry of Transportation; Nigerian Railway Corporation",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2024/05/01/fg-inaugurates-port-harcourt-aba-rail-project-as-train-service-commences",
+          "label": "Nairametrics: FG inaugurates Port Harcourt-Aba rail project (1 May 2024)"
+        },
+        {
+          "url": "https://gazettengr.com/fg-hands-over-3-02-billion-port-harcourt-aba-railway-project-to-nrc/?tztc=1",
+          "label": "Peoples Gazette: FG hands over $3.02bn Port Harcourt-Aba railway project to NRC (28 Nov 2024)"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "kind": "achievement",
+      "rank": 17,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "Abia",
+      "date": "2025-12",
+      "title": "Enugu–Port Harcourt Expressway: Umuahia–Aba section (56 km) about 96–100% complete",
+      "figure": "56.1 km section; 4.5 km outstanding (Oct 2025); about 5% of work left per contractor (Oct 2025); 79.15% completion of Aba axis (Dec 2025); Status at 18 Oct 2026: listed as completed (112.2 km, both carriageways) and, in the ongoing list, at 95.65%; Enugu–Lokpanta (Enugu-bound carriageway, 65 km) completed; Enugu–Lokpanta Section III 41%",
+      "description": "Arab Contractors is rehabilitating the Umuahia Tower–Aba section (Section II, 56.1 km) of the Enugu–Port Harcourt Expressway, which is funded through the federal Sukuk programme. In October 2025 Umahi gave a November 2025 deadline for the last 4.5 km and threatened to revoke the contract. The federal controller reported the Aba axis at 79.15% complete on 1 December 2025.",
+      "creditedTo": "Federal Ministry of Works; Arab Contractors",
+      "sources": [
+        {
+          "url": "https://dailytrust.com/enugu-port-harcourt-expressway-ready-for-inauguration-in-june-umahi",
+          "label": "Daily Trust: Enugu-PH expressway ready for inauguration in June – Umahi (11 Mar 2025)"
+        },
+        {
+          "url": "https://gazettengr.com/umahi-gives-november-deadline-for-completion-of-enugu-port-harcourt-expressway-project/",
+          "label": "Peoples Gazette/NAN: Umahi gives November deadline (31 Oct 2025)"
+        },
+        {
+          "url": "https://fmino.gov.ng/aba-axis-of-the-enugu-port-harcourt-expressway-nears-reality-federal-works-controller-confirms-79-15-completion/",
+          "label": "FMINO: Aba axis nears reality, 79.15% completion (1 Dec 2025)"
+        },
+        {
+          "url": "https://fmino.gov.ng/?p=52783",
+          "label": "FMINO: FIC Abia inspects Sukuk-funded section (22 Jun 2026)"
+        },
+        {
+          "url": "https://ground.news/article/tinubu-to-commission-enugu-pharcourt-highway-on-may-15",
+          "label": "Ground News (New Telegraph): Tinubu to commission Enugu-P'Harcourt highway on May 15 (Feb 2026)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r18",
+      "kind": "achievement",
+      "rank": 18,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "Ebonyi",
+      "date": "2026-08",
+      "title": "Calabar–Ebonyi–Benue–Abuja 'legacy' superhighway: Ebonyi section under construction",
+      "figure": "Section 1 about 123–125.5 km, about ₦454bn; 50% of contract sum paid (Umahi, May 2026); 45% complete (Aug 2026); more than 2,000 workers; Ndibe Beach bridge target May 2027; Section 2 into Benue about 173.6–178 km, about ₦683–685bn, 30% paid; Status at 18 Oct 2026: Section 1 (Ndibe–Ukwachi–Mbeke, 123 km) 52% complete; a further 123 km section and the Ebom–Ndibe Beach–Eke Market road (173.4 km) newly approved and under procurement",
+      "description": "Section 1 of Tinubu's third legacy highway runs from Ndibe Beach (Afikpo) through Ebonyi to the Benue boundary and is under construction, with dualisation at strategic points and a 19-span Ndibe Beach bridge. Umahi put Section 1 at 45% complete in August 2026; the site engineer said almost 40%.",
+      "creditedTo": "Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://nannews.ng/ebonyi-section-of-trans-sahara-road-45-completed-umahi/",
+          "label": "NAN: Ebonyi section of Trans-Sahara road 45% completed – Umahi (15 Aug 2026)"
+        },
+        {
+          "url": "https://nigeriannewsdirect.com/tinubus-legacy-projects-transforming-s-east-infrastructure-umahi/",
+          "label": "Nigerian News Direct: Tinubu's legacy projects transforming S'East infrastructure – Umahi (21 May 2026)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r19",
+      "kind": "achievement",
+      "rank": 19,
+      "theme": "transport",
+      "status": "Approved / funded",
+      "sector": "Roads & bridges",
+      "location": "Ebonyi",
+      "date": "2026-06",
+      "title": "FEC approves ₦248bn for 39 km of new concrete roads in Ebonyi",
+      "figure": "Over ₦248bn total: Enugu–Abakaliki–Ogoja 18 km about ₦84bn; Onueke–Ezza 21 km about ₦118bn; Okposi–Amasiri ₦46bn; Onueke flyover more than 60% complete; Status at 18 Oct 2026: Enugu–Abakaliki–Ogoja dualisation (88 km) 40%; Abakaliki–Afikpo (21 km) 8%; Enugu–Abakaliki concrete road plus flyover (18 km) 8%; Amasiri–Okposi road plus flyover (25 km) mobilising",
+      "description": "On 29 June 2026 the FEC approved concrete dualisation of 18 km of the Enugu–Abakaliki–Ogoja Road in Abakaliki (EBSU Gate to Margaret Umahi International Market), 21 km from Onueke to Ezza South and Ezza North, and protective works on the Okposi–Amasiri Road. Work was to start before mid-August 2026.",
+      "creditedTo": "FEC; Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/fg-approves-n248bn-road-projects-for-ebonyi/",
+          "label": "FMINO: FG approves N248bn road projects for Ebonyi (11 Jul 2026)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r20",
+      "kind": "achievement",
+      "rank": 20,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "Anambra",
+      "date": "2025-03",
+      "title": "Second Niger Bridge access road Phase 2B (Onitsha side) flagged off",
+      "figure": "Phase 2B about 35 km, including a 17.5 km dual carriageway, 7 flyovers and a bridge (VON); ₦176bn (Umahi, Aug 2025); 30% of funding released at flag-off; Status at 18 Oct 2026: Phase 2B 10% complete",
+      "description": "Tinubu flagged off construction of Phase 2B of the Second Niger Bridge access road on the Anambra side in March 2025. CGC Nigeria is the contractor, and the road starts at Ogbunike (Oyi LGA) to link Atani, Obosi and Nkpor. Umahi listed Section 2B (Anambra) as ongoing in August 2025.",
+      "creditedTo": "Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://von.gov.ng/?p=406234",
+          "label": "VON: President Tinubu flags off Second Niger Bridge access road (Anambra)"
+        },
+        {
+          "url": "https://allafrica.com/stories/202508040376.html",
+          "label": "AllAfrica/NAN: Umahi faults claim of marginalisation of South East in road projects (4 Aug 2025)"
+        },
+        {
+          "url": "https://nsia.com.ng/?p=6019",
+          "label": "NSIA: Second Niger Bridge project page"
+        },
+        {
+          "url": "https://fmw.gov.ng/read/3287",
+          "label": "Federal Ministry of Works: Phase 2A flag-off (25 Mar 2025)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r21",
+      "kind": "achievement",
+      "rank": 21,
+      "theme": "transport",
+      "status": "Completed",
+      "sector": "Roads & bridges",
+      "location": "Enugu, Ebonyi",
+      "date": "2026-10",
+      "title": "New flyover and bridges completed in Enugu and Ebonyi",
+      "figure": "Eke-Obinagu flyover: 23 spans, 690 m (both directions); Artisan Market bridge, Enugu: 75 m; Akpoha bridge, Ebonyi: 120 m. All 100% complete (Oct 2026)",
+      "description": "Three new federal structures have been completed: a 23-span flyover at the Eke-Obinagu junction on the Enugu–Abakaliki road (with service lanes and a roundabout), the reconstruction of the collapsed bridge at the New Artisan Market on the Enugu–Port Harcourt Expressway in Enugu, and a new bridge at Akpoha in Ebonyi to replace a near-collapsed one. Emergency approach roads to the Akpoha bridge have also been built. Under way: the Abakpa Junction interchange in Enugu (850 m) and new bridges on the Agbani–Nara–Nkerefi and Nsukka–Obollo-Afor routes.",
+      "creditedTo": "Federal Ministry of Works; Reinforced Global Resources; CCECC; Gerawa Global Engineering",
+      "sources": [
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r22",
+      "kind": "achievement",
+      "rank": 22,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "Ebonyi, Abia, Imo",
+      "date": "2026-05",
+      "title": "Amasiri–Okigwe road reconstruction under Dangote tax-credit scheme",
+      "figure": "61 km; ₦193bn; Status at 18 Oct 2026: Afikpo–Okigwe Section II (Dangote, 70 km) 40% complete; Amasiri–Okposi–Uburu–Mpu–Ishiagu road (65.65 km) 85% complete",
+      "description": "Umahi said reconstruction had begun on the Amasiri–Okigwe road, previously impassable because of erosion and failed sections, under the Dangote tax-credit scheme. The road reconnects Ebonyi, Abia and Imo.",
+      "creditedTo": "Federal Ministry of Works; Dangote Group (tax credit)",
+      "sources": [
+        {
+          "url": "https://nigeriannewsdirect.com/tinubus-legacy-projects-transforming-s-east-infrastructure-umahi/",
+          "label": "Nigerian News Direct: Tinubu's legacy projects transforming S'East infrastructure – Umahi (21 May 2026)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r23",
+      "kind": "achievement",
+      "rank": 23,
+      "theme": "transport",
+      "status": "Approved / funded",
+      "sector": "Roads & bridges",
+      "location": "Abia, Imo",
+      "date": "2024-07",
+      "title": "FEC approves Aba–Owerri Road and Imo NNPC-linked road contracts",
+      "figure": "Aba–Owerri Road ₦21bn; Imo Angingali–Ubalaka road revised from ₦14bn to ₦26.46bn; Status at 18 Oct 2026: Aba–Owerri (NNPC depot) road 16%; Achingali–Ubakala road 19.84%",
+      "description": "In July 2024 the Federal Executive Council approved rehabilitation of the Aba–Owerri Road (NNPC depot expressway) for Rudo Nigeria Ltd and raised the cost of the Angingali–Udobi–Udona–Umo–Uwana–Ubalaka road in Imo, an NNPC project. The Umuahia–Aba item was stepped down for review.",
+      "creditedTo": "FEC; Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://businessday.ng/news/article/fec-approves-n1-45trn-road-contracts/",
+          "label": "BusinessDay: FEC approves N1.45trn road contracts (30 Jul 2024)"
+        },
+        {
+          "url": "https://thecable.ng/south-east-soth-west-fec-approves-n1-4trn-for-road-projects",
+          "label": "TheCable: South-East, South-West — FEC approves N1.4trn for road projects"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r24",
+      "kind": "achievement",
+      "rank": 24,
+      "theme": "transport",
+      "status": "Approved / funded",
+      "sector": "Roads & bridges",
+      "location": "Abia, Anambra, Imo",
+      "date": "2025-03",
+      "title": "FEC approves Uturu–Isikwuato–Akara and Oba–Nnewi–Arondizogu–Okigwe roads",
+      "figure": "Uturu–Isikwuato–Akara ₦5.926bn (initial phase, 6-month completion target); Oba–Nnewi–Arondizogu–Okigwe ₦8.45bn (first phase); 13 contracts worth ₦679bn nationally; Status at 18 Oct 2026: Uturu–Isuikwuato–Akara 85% complete; Oba–Nnewi Section 1 and two outstanding Oba–Nnewi–Arondizogu–Okigwe sections listed among completed emergency/special intervention projects",
+      "description": "Among 13 road contracts approved in March 2025, the FEC approved the first phase of the Uturu–Isikwuato–Akara Road in Abia and the Oba–Nnewi–Arondizogu–Okigwe Road linking Anambra and Imo.",
+      "creditedTo": "FEC; Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://guardian.ng/?p=2550148",
+          "label": "Guardian: Full list — 13 roads FG plans to spend N679b on"
+        },
+        {
+          "url": "https://investorsking.com/2025/03/06/umahi-announces-n679-billion-in-road-contracts-after-fec-approval/",
+          "label": "InvestorsKing: Umahi announces N679bn road contracts after FEC approval (6 Mar 2025)"
+        },
+        {
+          "url": "",
+          "label": "South-East projects status workbook: completed, ongoing and emergency road projects (as at 18 October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r25",
+      "kind": "achievement",
+      "rank": 25,
+      "theme": "transport",
+      "status": "Approved / funded",
+      "sector": "Rail, ports & airports",
+      "location": "Enugu",
+      "date": "2026-01",
+      "title": "Enugu airport concessioned to Aero Alliance for 30 years",
+      "figure": "30-year concession; international terminal about 80% complete (ThisDay, Feb 2026)",
+      "description": "The FEC approved the full business case for concessioning Akanu Ibiam International Airport on 31 July 2025, and Aviation Minister Festus Keyamo signed the agreement with Aero Alliance on 21 January 2026. Workers remain FAAN staff.",
+      "creditedTo": "Federal Ministry of Aviation and Aerospace Development; FAAN; ICRC",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2026/01/23/fg-signs-enugu-airport-concession-agreement/",
+          "label": "Nairametrics: FG signs Enugu airport concession agreement (23 Jan 2026)"
+        },
+        {
+          "url": "https://www.thisdaylive.com/2026/02/06/stakeholders-fgs-concession-of-enugu-airport-raises-expectation-of-transformation",
+          "label": "ThisDay: Stakeholders — FG's concession of Enugu airport raises expectation (6 Feb 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r26",
+      "kind": "achievement",
+      "rank": 26,
+      "theme": "transport",
+      "status": "Completed",
+      "sector": "Rail, ports & airports",
+      "location": "Enugu",
+      "date": "2025-04",
+      "title": "FAAN emergency runway repair reopens Enugu airport early",
+      "figure": "Repairs completed in about 6 days",
+      "description": "FAAN closed Akanu Ibiam airport in April 2025 after a major rupture in the runway asphalt. Emergency repairs began on 22 April and the airport reopened on 28 April 2025, ahead of the planned 6 May date.",
+      "creditedTo": "FAAN",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2025/04/26/faan-completes-emergency-runway-repairs-at-akanu-ibiam-airport-to-reopen-april-28/",
+          "label": "Nairametrics: FAAN completes emergency runway repairs at Akanu Ibiam airport (26 Apr 2025)"
+        }
+      ]
+    },
+    {
+      "id": "r27",
+      "kind": "achievement",
+      "rank": 27,
+      "theme": "transport",
+      "status": "Completed",
+      "sector": "Rail, ports & airports",
+      "location": "Anambra",
+      "date": "2023-08",
+      "title": "Onitsha River Port receives first commercial barge under private concessionaire",
+      "figure": "First barge 16 Aug 2023; planned 600 t weekly each way; over ₦23bn over 30 years (projection)",
+      "description": "Onitsha River Port's concessionaire, Universal Elysium Consortium, received its first commercial barge (tiles from Ajaokuta) on 16 August 2023. In 2024 NIWA projected over ₦23bn in federal revenue over the 30-year concession.",
+      "creditedTo": "NIWA; Federal Ministry of Marine and Blue Economy",
+      "sources": [
+        {
+          "url": "https://leadership.ng/onitsha-river-port-starts-receiving-commercial-barges",
+          "label": "Leadership: Onitsha River Port starts receiving commercial barges"
+        },
+        {
+          "url": "https://leadership.ng/concessioning-of-onitsha-river-port-suffers-setback-over-funding-dredging/",
+          "label": "Leadership: Concessioning of Onitsha River Port suffers setback over funding, dredging"
+        },
+        {
+          "url": "https://allafrica.com/stories/202410010667.html",
+          "label": "AllAfrica: NIWA moves to revive N9.4bn river ports"
+        }
+      ]
+    },
+    {
+      "id": "r28",
+      "kind": "achievement",
+      "rank": 28,
+      "theme": "transport",
+      "status": "Ongoing",
+      "sector": "Roads & bridges",
+      "location": "Abia",
+      "date": "2025-10",
+      "title": "FG removes CCECC from Aba–Port Harcourt stretch over poor work",
+      "figure": "43 km Aba–Port Harcourt; contract revised from ₦63bn to ₦83bn (FEC, July 2024)",
+      "description": "In October 2025 Umahi removed CCECC from the Port Harcourt-bound section of the Enugu–Port Harcourt Expressway, to be re-awarded to indigenous contractors, and gave the firm a 14-day notice to replace defective binder on the 43 km Aba–Port Harcourt project at its own cost. In July 2024 the FEC had raised this CCECC rehabilitation contract from ₦63bn to ₦83bn.",
+      "creditedTo": "Federal Ministry of Works; FEC",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2025/10/21/enugu-ph-expressway-fg-drops-ccecc-on-port-harcourt-bound-section-over-poor-work/",
+          "label": "Nairametrics: FG drops CCECC on Port Harcourt-bound section (21 Oct 2025)"
+        },
+        {
+          "url": "https://businessday.ng/news/article/fec-approves-n1-45trn-road-contracts/",
+          "label": "BusinessDay: FEC approves N1.45trn road contracts (30 Jul 2024)"
+        }
+      ]
+    },
+    {
+      "id": "r29",
+      "kind": "achievement",
+      "rank": 29,
+      "theme": "transport",
+      "status": "Completed",
+      "sector": "Roads & bridges",
+      "location": "Abia",
+      "date": "2025-05",
+      "title": "Tinubu commissions Abia-built Port Harcourt Road, Aba",
+      "figure": "6.5–6.7 km",
+      "description": "Represented by Works Minister Umahi, President Tinubu commissioned Aba's reconstructed Port Harcourt Road in May 2025. The road was built by Julius Berger for the Abia State Government after about 15 years of abandonment. Umahi said the president had directed that any federal road a governor wants to take over be approved within 24 hours.",
+      "creditedTo": "Abia State Government (builder); Presidency (commissioning)",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/president-tinubu-to-commission-reconstructed-port-harcourt-road-in-aba-on-may-23/",
+          "label": "FMINO: President Tinubu to commission reconstructed Port Harcourt Road in Aba on May 23"
+        },
+        {
+          "url": "https://guardian.ng/?p=2692087",
+          "label": "Guardian: Aba erupts in celebration as Tinubu commissions reconstructed P'Harcourt Road"
+        }
+      ]
+    },
+    {
+      "id": "r30",
+      "kind": "achievement",
+      "rank": 30,
+      "theme": "transport",
+      "status": "Approved / funded",
+      "sector": "Roads & bridges",
+      "location": "Abia, Imo",
+      "date": "2025-11",
+      "title": "Four federal roads handed to Abia State for completion",
+      "figure": "4 roads/bridges",
+      "description": "At Abia's request, the presidency approved transfer of the Owerri–Umuaka Road, Onuigbo–Umuahia Road, Omezuo Bridge and Umuahia–Ikot Ekpene Road to the state for completion under joint federal–state supervision. Contractors were given 30 days to resume work.",
+      "creditedTo": "Federal Ministry of Works; Abia State Government",
+      "sources": [
+        {
+          "url": "https://peopleandpowerngr.com/2025/11/fg-hands-over-four-federal-roads-to-abia-government-issues-30-day-ultimatum-to-contractors/",
+          "label": "People and Power: FG hands over four federal roads to Abia (3 Nov 2025)"
+        }
+      ]
+    },
+    {
+      "id": "r31",
+      "kind": "achievement",
+      "rank": 31,
+      "theme": "transport",
+      "status": "Announced",
+      "sector": "Rail, ports & airports",
+      "location": "Imo",
+      "date": "2026-10",
+      "title": "Owerri airport runway repair and extension for wide-body aircraft",
+      "figure": "About 25-day closure",
+      "description": "In October 2026 FAAN announced a roughly 25-day closure of Sam Mbakwe International Cargo Airport's runway, tentatively from 20 October 2026. The works cover pavement repair, crack treatment and resurfacing, plus a runway extension to handle wide-body aircraft, and are due before Christmas traffic.",
+      "creditedTo": "FAAN",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2026/10/09/faan-plans-25-day-closure-of-owerri-airport-runway-for-repairs-expansion/",
+          "label": "Nairametrics: FAAN plans 25-day closure of Owerri airport runway (9 Oct 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r32",
+      "kind": "achievement",
+      "rank": 32,
+      "theme": "transport",
+      "status": "Announced",
+      "sector": "Rail, ports & airports",
+      "location": "Anambra, South-East",
+      "date": "2025-05",
+      "title": "Tinubu pledges in Awka: rail link for Anambra, gas master plan inclusion, roads to Kogi",
+      "figure": "",
+      "description": "During a visit to Awka on 8 May 2025, Tinubu said the transport ministry would include Anambra in the National Rail Master Plan. He also promised to address the South-East's omission from the National Gas Master Plan, revive a South-East gas plant, complete abandoned federal roads linking Anambra to Kogi, and tackle erosion.",
+      "creditedTo": "Presidency",
+      "sources": [
+        {
+          "url": "https://allafrica.com/stories/202505090137.html",
+          "label": "AllAfrica: Tinubu promises to revive South-East gas plant, tackle Anambra erosion (9 May 2025)"
+        }
+      ]
+    },
+    {
+      "id": "r33",
+      "kind": "achievement",
+      "rank": 33,
+      "theme": "transport",
+      "status": "Announced",
+      "sector": "Roads & bridges",
+      "location": "Enugu",
+      "date": "2024-01",
+      "title": "Makurdi–Otukpo–9th Mile (Enugu) dualisation flagged off",
+      "figure": "266.4 km",
+      "description": "In January 2024 the FG flagged off dualisation of the Makurdi–Otukpo–9th Mile (Enugu) road, funded with the Export-Import Bank of China and awarded to China Harbour Engineering Company. The flag-off took place in Benue State.",
+      "creditedTo": "Federal Ministry of Works",
+      "sources": [
+        {
+          "url": "https://newtelegraphng.com/fg-flags-off-construction-of-266-4km-makurdi-enugu-road/",
+          "label": "New Telegraph: FG flags off construction of 266.4km Makurdi-Enugu road (25 Jan 2024)"
+        },
+        {
+          "url": "https://www.thecable.ng/adc-chieftain-tackles-umahi-says-tinubu-has-not-addressed-south-east-grievances",
+          "label": "TheCable: ADC chieftain tackles Umahi"
+        }
+      ]
+    },
+    {
+      "id": "r34",
+      "kind": "achievement",
+      "rank": 34,
+      "theme": "transport",
+      "status": "Announced",
+      "sector": "Rail, ports & airports",
+      "location": "Abia",
+      "date": "2025-08",
+      "title": "Shippers' Council moves to revive dormant Isiala Ngwa inland dry port",
+      "figure": "Gazetted 2006",
+      "description": "In 2025 the Nigerian Shippers' Council, under Executive Secretary Pius Akutah, pledged technical and regulatory support to revive the Isiala Ngwa Inland Dry Port in Abia, which was gazetted in 2006 and long dormant. Governor Otti stressed that it needs a functional rail link to the seaport.",
+      "creditedTo": "Nigerian Shippers' Council",
+      "sources": [
+        {
+          "url": "https://leadership.ng/isiala-ngwa-dryport-will-unlock-economic-potential-in-abia-south-east-nsc",
+          "label": "Leadership: Isiala Ngwa dryport will unlock economic potential in Abia, South-East – NSC"
+        }
+      ]
+    },
+    {
+      "id": "r35",
+      "kind": "achievement",
+      "rank": 35,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Consumer credit (CREDICORP)",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2026-11",
+      "title": "CREDICORP: nearly ₦9bn in consumer credit to more than 51,000 South-Easterners",
+      "figure": "South-East: about ₦8.9bn to about 51,250 beneficiaries (14.5% of the national ₦61.40bn and 353,451 beneficiaries, as of 31 Oct 2026)",
+      "description": "By 31 October 2026, the South-East accounted for 14.5% of CREDICORP's consumer credit: about ₦8.9bn to about 51,250 people. Nationally, CREDICORP has channelled ₦61.40bn to 353,451 Nigerians through 36 partner financial institutions across 8 sectors, and has launched SPARK, an offline USSD credit service.",
+      "creditedTo": "Nigerian Consumer Credit Corporation (CREDICORP)",
+      "sources": [
+        {
+          "url": "https://www.legit.ng/business-economy/money/1739198-fg-launches-ussd-loan-service-credicorp-disbursement-hits-n614-billion/",
+          "label": "Legit.ng: FG launches USSD offline loan service as CREDICORP disbursement hits N61.4 billion"
+        }
+      ]
+    },
+    {
+      "id": "r36",
+      "kind": "achievement",
+      "rank": 36,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Credit & enterprise",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2026-10",
+      "title": "Bank of Industry: ₦11.1bn in federal loans and grants to more than 108,000 South-East businesses",
+      "figure": "₦11.10bn to 108,659 businesses. By state: Anambra ₦3.06bn (17,874) · Enugu ₦2.54bn (21,079) · Abia ₦2.39bn (19,590) · Imo ₦1.98bn (31,760) · Ebonyi ₦1.13bn (18,356). Loans by sector led by engineering and technology (₦2.0bn), healthcare and petrochemicals (₦1.83bn) and agro-processing (₦0.90bn); 107 creative-industry businesses got ₦0.47bn",
+      "description": "Under the Federal Government’s ₦200bn intervention managed by the Bank of Industry, South-East businesses received about ₦11.1bn between January 2024 and October 2026. That is ₦5.69bn in direct loans (₦1.44bn from the FGN MSME Fund to 324 small businesses and ₦4.24bn from the FGN Industrial Fund to 9 manufacturers) and ₦5.42bn in ₦50,000 Presidential Conditional Grants to 108,326 nano-businesses in all five states, about 55% of them owned by women. Imo had the most grant recipients (31,667) and Anambra the largest loans (₦2.17bn).",
+      "creditedTo": "Bank of Industry (BOI); Federal Ministry of Industry, Trade and Investment",
+      "sources": [
+        {
+          "url": "https://nannews.ng/fg-disburses-n1-48bn-loan-to-29000-businesses-in-imo/",
+          "label": "NAN: FG disburses N1.48bn loan to 29,000 businesses in Imo"
+        },
+        {
+          "url": "https://nairametrics.com/2025/05/03/fg-disburses-n1-48bn-loan-to-29000-businesses-in-imo/",
+          "label": "Nairametrics: FG disburses N1.48bn loan to 29,000 businesses in Imo"
+        },
+        {
+          "url": "https://www.pulse.ng/story/fg-disburses-n7388m-presidential-grant-to-14776-business-owners-in-ebonyi-2024113019273193799",
+          "label": "Pulse/NAN: FG disburses N738.8m presidential grant to 14,776 business owners in Ebonyi"
+        },
+        {
+          "url": "https://gazettengr.com/fg-disburses-n738-8-million-grant-to-14776-ebonyi-business-owners/",
+          "label": "Gazette: FG disburses N738.8 million grant to 14,776 Ebonyi business owners"
+        },
+        {
+          "url": "",
+          "label": "Bank of Industry data: FGN MSME Fund, FGN Industrial Fund and Presidential Conditional Grant Scheme in the South-East, January 2024 to October 2026"
+        }
+      ]
+    },
+    {
+      "id": "r37",
+      "kind": "achievement",
+      "rank": 37,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Student loans (NELFUND)",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2026-10",
+      "title": "NELFUND: about ₦41bn in student loans and upkeep to South-East students",
+      "figure": "South-East: about ₦41bn (11% of ₦372.62bn national, Sep 2026): about ₦21.2bn in fees and ₦19.8bn in upkeep; about 128,000 beneficiaries (11% of 1,164,222, March 2026)",
+      "description": "The South-East accounts for 11% of NELFUND's disbursements: about ₦41bn of the ₦372.62bn paid nationally by 29 September 2026, roughly ₦21.2bn in institutional fees and ₦19.8bn in upkeep paid directly to students. On the same 11% share, that is about 128,000 South-East beneficiaries of the 1,164,222 nationwide (March 2026 count).",
+      "creditedTo": "Nigerian Education Loan Fund (NELFUND)",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2026/10/04/nelfund-student-loan-disbursements-hit-n372-62-billion/",
+          "label": "Nairametrics: NELFUND student loan disbursements hit N372.62 billion (4 Oct 2026)"
+        },
+        {
+          "url": "https://nairametrics.com/2026/09/03/nelfund-disburses-n355-87-billion-in-student-loans-processes-1-66-million-applications/",
+          "label": "Nairametrics: NELFUND disburses N355.87 billion (3 Sep 2026)"
+        },
+        {
+          "url": "https://guardian.ng/?p=2910526",
+          "label": "Guardian: NELFUND disburses N355.87b to students, institutions"
+        }
+      ]
+    },
+    {
+      "id": "r38",
+      "kind": "achievement",
+      "rank": 38,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Consumer credit (CREDICORP)",
+      "location": "Abia",
+      "date": "2026-10",
+      "title": "CREDICORP For All brings all consumer credit products to Aba",
+      "figure": "South-East: about ₦8.9bn to about 51,250 people so far (14.5% of the national total, as of 31 Oct 2026)",
+      "description": "CREDICORP held the Abia State edition of 'CREDICORP For All' in Aba, Abia State. It brought the agency's products together in one place: SPARK (USSD credit for first-time borrowers), S.C.A.L.E. (credit for locally assembled tricycles from Nigerian manufacturers) and YouthCred (credit for young people, including NYSC members). The Abia State Government, represented by the Chief Principal to Governor Alex Otti, and MOFI took part.",
+      "creditedTo": "CREDICORP; Abia State Government; MOFI",
+      "sources": [
+        {
+          "url": "https://businessday.ng/news/article/fgs-credicorp-has-disbursed-over-n53-5bn-credit-to-351000-nigerians-nwagba/",
+          "label": "BusinessDay: FG's CREDICORP has disbursed over N53.5bn credit to 351,000 Nigerians - Nwagba"
+        }
+      ]
+    },
+    {
+      "id": "r39",
+      "kind": "achievement",
+      "rank": 39,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Student loans (NELFUND)",
+      "location": "Enugu",
+      "date": "2026-07",
+      "title": "UNN has about 7,201 NELFUND beneficiaries",
+      "figure": "UNN about 7,201 beneficiaries (July 2026).",
+      "description": "In July 2026 the UNN Vice-Chancellor said about 7,201 UNN students were benefiting from NELFUND loans. He called uptake low and said the whole South-East's uptake was below that of a single North-East state.",
+      "creditedTo": "University of Nigeria, Nsukka; NELFUND",
+      "sources": [
+        {
+          "url": "https://saharareporters.com/2026/07/22/unn-vc-laments-low-south-east-uptake-nigerian-govts-student-loan-says-region-trails",
+          "label": "Sahara Reporters: UNN VC laments low South-East uptake (22 Jul 2026)"
+        },
+        {
+          "url": "https://gazettengr.com/south-east-students-parents-praise-puncture-tinubus-nelfund-scheme/",
+          "label": "Peoples Gazette/NAN: South-East students, parents praise, puncture Tinubu's NELFUND scheme (27 Jul 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r40",
+      "kind": "achievement",
+      "rank": 40,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Student loans (NELFUND)",
+      "location": "Imo, Abia, Ebonyi",
+      "date": "2024-09",
+      "title": "First South-East institutions receive NELFUND funds",
+      "figure": "AE-FUNAI N193,377,100; Ebonyi State University N78,313,000; MOUAU N71,016,220; Abia State University N12,469,500; Federal Polytechnic Nekede N368,400. Batch nationally: N2.1bn to 18,998 students in 40 institutions.",
+      "description": "In the 6 September 2024 batch (N2.1bn to 40 institutions nationally), five South-East institutions received loan funds for the first time. They were Alex Ekwueme Federal University Ndufu-Alike, Ebonyi State University, Michael Okpara University of Agriculture Umudike, Abia State University and Federal Polytechnic Nekede.",
+      "creditedTo": "NELFUND",
+      "sources": [
+        {
+          "url": "https://guardian.ng/education/nelfund-disburses-student-loans-to-another-40-institutions/",
+          "label": "Guardian: NELFUND disburses student loans to another 40 institutions"
+        },
+        {
+          "url": "https://nairametrics.com/2024/09/06/nelfund-disburses-n2-1-billion-student-loans-to-40-institutions-5-from-the-east/",
+          "label": "Nairametrics: NELFUND disburses N2.1 billion to 40 institutions, 5 from the East"
+        }
+      ]
+    },
+    {
+      "id": "r41",
+      "kind": "achievement",
+      "rank": 41,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Consumer credit (CREDICORP)",
+      "location": "Abia",
+      "date": "2025-06",
+      "title": "CREDICORP starts market-women inventory credit at Ariaria Market, Aba",
+      "figure": "Inventory credit up to N100,000 at an interest rate cut by 50% from market rates; programme target: 10,000 market women in 224 markets across 28 states; 1,000+ women at the launch",
+      "description": "CREDICORP launched its market-women inventory credit at Ariaria International Market, Aba, the first site in the country, with Sytiamo as disbursement partner. More than 1,000 women attended. Traders who applied reported receiving credit alerts within a day.",
+      "creditedTo": "CREDICORP; Sytiamo Technologies (partner lender)",
+      "sources": [
+        {
+          "url": "https://newtelegraphng.com/?p=1003592",
+          "label": "New Telegraph: Aba Market Women Commend FG As CREDICORP Touches Ariaria Market"
+        },
+        {
+          "url": "https://nairametrics.com/2025/06/26/fg-begins-disbursement-of-interest-free-consumer-credit-to-abia-market-women/",
+          "label": "Nairametrics: FG begins disbursement of interest-free consumer credit to Abia market women"
+        }
+      ]
+    },
+    {
+      "id": "r42",
+      "kind": "achievement",
+      "rank": 42,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Credit & enterprise",
+      "location": "Enugu",
+      "date": "2024-10",
+      "title": "5th Expanded MSME Clinic in Enugu: N150,000 grants and Fashion Hub",
+      "figure": "N150,000 per selected MSME; Fashion Hub projected to create about 48,000 jobs",
+      "description": "Vice President Shettima opened the 5th Expanded National MSME Clinic in Enugu. On the President's instruction, outstanding exhibiting MSMEs each received a N150,000 non-repayable grant. He also inaugurated the Enugu Fashion and Garment Hub, set up by the Federal Government with Enugu State.",
+      "creditedTo": "Office of the Vice President; SMEDAN; Enugu State Government",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2024/10/03/fg-gives-n150000-grant-to-msmes-in-enugu/",
+          "label": "ThisDay: FG gives N150,000 grant to MSMEs in Enugu"
+        },
+        {
+          "url": "https://nairametrics.com/2024/10/04/fg-distributes-n150000-grants-each-to-small-business-owners-in-enugu",
+          "label": "Nairametrics: FG distributes N150,000 grants each to small business owners in Enugu"
+        }
+      ]
+    },
+    {
+      "id": "r43",
+      "kind": "achievement",
+      "rank": 43,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Credit & enterprise",
+      "location": "Abia, Enugu",
+      "date": "2025",
+      "title": "DBN to train 3,000 MSMEs in Abia and Enugu",
+      "figure": "3,000 MSMEs",
+      "description": "The Development Bank of Nigeria and Stage Africa run a free 2025 MSME capacity-building programme for 3,000 entrepreneurs in Abia and Enugu. It has three stages: online courses, in-person training for top performers, and a pitch competition with grants.",
+      "creditedTo": "Development Bank of Nigeria (DBN)",
+      "sources": [
+        {
+          "url": "https://guardian.ng/?p=2652704",
+          "label": "Guardian: DBN, Stage Africa to train 3,000 MSMEs in Abia, Enugu"
+        }
+      ]
+    },
+    {
+      "id": "r44",
+      "kind": "achievement",
+      "rank": 44,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Credit & enterprise",
+      "location": "South-East",
+      "date": "2026-02",
+      "title": "Presidential Conditional Grant Scheme reaches 957,400 nano businesses (national)",
+      "figure": "National: 957,400 beneficiaries; N50,000 each; N50bn grant component of a N200bn package",
+      "description": "National: the Presidential Conditional Grant Scheme pays N50,000 non-repayable grants to nano businesses in all 774 LGAs. The Presidency reported 957,400 beneficiaries in its statement on BOI's 2025 performance. It sits alongside the FGN MSME Intervention Fund and the Manufacturing Sector Fund (three funds totalling N200bn).",
+      "creditedTo": "Federal Ministry of Industry, Trade and Investment; BOI",
+      "sources": [
+        {
+          "url": "https://nannews.ng/tinubu-hails-boi-over-n636bn-loans-to-7000-firms-in-2025/",
+          "label": "NAN: Tinubu hails BoI over N636bn loans to 7,000 firms in 2025"
+        },
+        {
+          "url": "https://von.gov.ng/?p=353430",
+          "label": "VON: Deputy Speaker lauds Tinubu, Shettima's support to SMEs in South East"
+        }
+      ]
+    },
+    {
+      "id": "r45",
+      "kind": "achievement",
+      "rank": 45,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Credit & enterprise",
+      "location": "South-East",
+      "date": "2026-02",
+      "title": "Bank of Industry lends a record N636bn in 2025 (national)",
+      "figure": "National: N636bn; 7,000+ enterprises; ~1.6m jobs created/retained; NPL ratio below 1.5%",
+      "description": "National: the President praised BOI for disbursing a record N636bn to more than 7,000 enterprises in 2025. This included N51bn to nano and N32bn to micro enterprises, N12bn to youth-owned firms and a N10bn guaranteed facility for women-owned firms.",
+      "creditedTo": "Bank of Industry; State House",
+      "sources": [
+        {
+          "url": "https://statehouse.gov.ng/president-tinubu-hails-bank-of-industry-over-n636-billion-disbursement-to-businesses-in-2025-says-performance-validates-economic-reform-agenda/",
+          "label": "State House: President Tinubu hails Bank of Industry over N636 billion disbursement"
+        },
+        {
+          "url": "https://nannews.ng/tinubu-hails-boi-over-n636bn-loans-to-7000-firms-in-2025/",
+          "label": "NAN: Tinubu hails BoI over N636bn loans to 7,000 firms in 2025"
+        }
+      ]
+    },
+    {
+      "id": "r46",
+      "kind": "achievement",
+      "rank": 46,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Consumer credit (CREDICORP)",
+      "location": "South-East",
+      "date": "2026-02",
+      "title": "Tinubu set up CREDICORP; board inaugurated after first year of lending (national)",
+      "figure": "National: about N37bn disbursed in the first year (per Nairametrics headline, Feb 2026)",
+      "description": "National: President Tinubu approved CREDICORP's board in July 2024 to speed up access to consumer credit. The State House inaugurated the board in February 2026, after a first year of lending. The agency's stated goal is credit access for 50% of working Nigerians by 2030.",
+      "creditedTo": "State House; CREDICORP",
+      "sources": [
+        {
+          "url": "https://statehouse.gov.ng/fg-moves-to-democratise-credit-access-inaugurates-credicorp-board/",
+          "label": "State House: FG moves to democratise credit access, inaugurates CREDICORP Board"
+        },
+        {
+          "url": "https://nairametrics.com/2026/02/26/fg-inaugurates-credicorp-board-after-n37bn-consumer-credit-disbursement-in-1-year/",
+          "label": "Nairametrics: FG inaugurates CREDICORP board after N37bn consumer credit disbursement in 1 year"
+        },
+        {
+          "url": "https://gazettengr.com/?p=298080",
+          "label": "Gazette: Tinubu appoints board of Nigerian Consumer Credit Corporation"
+        }
+      ]
+    },
+    {
+      "id": "r47",
+      "kind": "achievement",
+      "rank": 47,
+      "theme": "credit",
+      "status": "Announced",
+      "sector": "Consumer credit (CREDICORP)",
+      "location": "South-East",
+      "date": "2026-10",
+      "title": "CREDICORP targets 2 million borrowers in 2027 (national)",
+      "figure": "National: N45.2bn disbursed in H1 2026; 37 participating lenders (45 planned by end-2026); 10,000+ S.C.A.L.E. customers; 15+ local manufacturers/vendors; ~10% of beneficiaries are civil servants",
+      "description": "National: CREDICORP aims to reach more than 2 million Nigerians with consumer credit in 2027 and more than 500,000 by the end of 2026. It reports 10,000+ customers under S.C.A.L.E. (locally made vehicles) and 60,000+ young people given credit education under YouthCred.",
+      "creditedTo": "CREDICORP",
+      "sources": [
+        {
+          "url": "https://www.legit.ng/business-economy/money/1734331-credicorp-fg-targets-2-million-nigerians-consumer-credit-2027-reveals-how-benefit/",
+          "label": "Legit.ng: CREDICORP: FG targets 2 million Nigerians for consumer credit in 2027"
+        }
+      ]
+    },
+    {
+      "id": "r48",
+      "kind": "achievement",
+      "rank": 48,
+      "theme": "credit",
+      "status": "Completed",
+      "sector": "Student loans (NELFUND)",
+      "location": "South-East",
+      "date": "2024-04",
+      "title": "Student Loans Act re-enacted, widening access",
+      "figure": "Removed the earlier N500,000 annual family-income eligibility cap (national).",
+      "description": "On 3 April 2024 President Tinubu signed the Student Loans (Access to Higher Education) Act (Repeal and Re-enactment) 2024. It removed the N500,000 family-income limit and let loans cover more than tuition. This is the legal basis for every NELFUND payment to South-East students.",
+      "creditedTo": "Presidency; National Assembly; NELFUND",
+      "sources": [
+        {
+          "url": "https://www.icirnigeria.org/tinubu-signs-amended-student-loan-bill-into-law/",
+          "label": "ICIR: Tinubu signs amended student loan bill into law"
+        },
+        {
+          "url": "https://statehouse.gov.ng/in-detail-the-student-loan-access-to-higher-education-act-2024/",
+          "label": "State House: In Detail - The Student Loan (Access to Higher Education) Act, 2024"
+        }
+      ]
+    },
+    {
+      "id": "r49",
+      "kind": "achievement",
+      "rank": 49,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Student loans (NELFUND)",
+      "location": "Anambra, Enugu, Ebonyi",
+      "date": "2026-07",
+      "title": "NAN survey: South-East uptake rising but slow",
+      "figure": "COOU applications: 263 (2023/24), 740 (2024/25), over 3,000 (2025/26). ESUT: about 2,828 applicants of 20,000+ students. UNN: about 7,201 beneficiaries.",
+      "description": "A NAN survey in July 2026 found low but rising use of NELFUND in Anambra, Enugu and Ebonyi. COOU applications grew from 263 in 2023/24 to 740 in 2024/25 and over 3,000 in 2025/26. About 2,828 of ESUT's 20,000+ students had applied. Students at EBSU and AE-FUNAI called the loan a 'lifeline'.",
+      "creditedTo": "NELFUND; state and federal institutions",
+      "sources": [
+        {
+          "url": "https://gazettengr.com/south-east-students-parents-praise-puncture-tinubus-nelfund-scheme/",
+          "label": "Peoples Gazette/NAN: South-East students, parents praise, puncture Tinubu's NELFUND scheme"
+        }
+      ]
+    },
+    {
+      "id": "r50",
+      "kind": "achievement",
+      "rank": 50,
+      "theme": "credit",
+      "status": "Ongoing",
+      "sector": "Student loans (NELFUND)",
+      "location": "Abia, Enugu, Anambra",
+      "date": "2025",
+      "title": "NELFUND South-East advocacy tour: Abia, UNN, UNIZIK",
+      "figure": "",
+      "description": "In early 2025 NELFUND ran advocacy visits across the South-East. In Abia, NELFUND's regional advocacy director said the zone ranked last in applications. Governor Alex Otti called the scheme 'a very good initiative by the federal government' and told his tertiary education commissioner to work with TETFund on sensitisation. MD Sawyerr led sessions at UNN and UNIZIK, telling students 'no one will call, text, or harass you about the loan'.",
+      "creditedTo": "NELFUND; Abia State Government",
+      "sources": [
+        {
+          "url": "https://leadership.ng/south-east-ranks-last-in-nelfund-application",
+          "label": "Leadership: South-East ranks last in NELFUND application"
+        },
+        {
+          "url": "https://tribuneonlineng.com/student-loan-nelfund-takes-advocacy-to-unn-unizik-students",
+          "label": "Tribune: Student loan - NELFUND takes advocacy to UNN, UNIZIK students"
+        },
+        {
+          "url": "https://www.thecable.ng/nelfund-banks-on-south-south-south-east-to-increase-student-loan-uptake",
+          "label": "TheCable: NELFUND banks on South-South, South-East to increase uptake"
+        }
+      ]
+    },
+    {
+      "id": "r51",
+      "kind": "achievement",
+      "rank": 51,
+      "theme": "credit",
+      "status": "Announced",
+      "sector": "Credit & enterprise",
+      "location": "Anambra",
+      "date": "2026-06",
+      "title": "BOI and Anambra Commerce Ministry set up a desk to widen SME credit access",
+      "figure": "",
+      "description": "A Bank of Industry regional team agreed with Anambra's Ministry of Commerce on a joint framework. Two ministry desk officers will receive BOI training and act as liaison points, helping businesses find and apply for BOI facilities.",
+      "creditedTo": "Bank of Industry; Anambra State Ministry of Commerce",
+      "sources": [
+        {
+          "url": "https://anambrastate.gov.ng/commerce-ministry-bank-of-industry-strengthen-partnership-to-boost-sme-growth-in-anambra/",
+          "label": "Anambra State Government: Commerce Ministry, Bank of Industry strengthen partnership"
+        }
+      ]
+    },
+    {
+      "id": "r52",
+      "kind": "achievement",
+      "rank": 52,
+      "theme": "education",
+      "status": "Completed",
+      "sector": "Education & universities",
+      "location": "Imo",
+      "date": "2023-10",
+      "title": "Alvan Ikoku becomes a Federal University of Education",
+      "figure": "",
+      "description": "After the Jonathan government's 2015 upgrade was put on hold, President Tinubu approved Alvan Ikoku Federal College of Education, Owerri, becoming a university on 2 June 2023. The Federal Ministry of Education confirmed the official take-off on 20 October 2023. It now runs as Alvan Ikoku Federal University of Education.",
+      "creditedTo": "Federal Ministry of Education; Presidency",
+      "sources": [
+        {
+          "url": "https://guardian.ng/news/we-are-transiting-smoothly-to-varsity/",
+          "label": "Guardian: 'We are transiting smoothly to varsity'"
+        },
+        {
+          "url": "https://www.alvanikoku.edu.ng/news/from-college-to-university-alvan-ikoku-embraces-a-brighter-future/",
+          "label": "Alvan Ikoku FUE: From college to university"
+        },
+        {
+          "url": "https://myschoolgist.com/news/tinubu-establishes-new-institutions/",
+          "label": "MySchoolGist: President Tinubu approves 7 new tertiary institutions (20 Oct 2023)"
+        }
+      ]
+    },
+    {
+      "id": "r53",
+      "kind": "achievement",
+      "rank": 53,
+      "theme": "education",
+      "status": "Completed",
+      "sector": "Education & universities",
+      "location": "Enugu",
+      "date": "2024-03",
+      "title": "Enugu dental college upgraded to allied health university",
+      "figure": "22 programmes approved by the university Senate; 18 verified by the NUC for 2024/25.",
+      "description": "On 14 March 2024 President Tinubu approved converting the Federal College of Dental Technology and Therapy, Enugu, into the Federal University of Allied Health Sciences, Enugu (FUAHSE), under the Federal Ministry of Health. The new university's Senate approved 22 programmes, and the NUC verified 18 of them for the 2024/25 session.",
+      "creditedTo": "Presidency; Federal Ministry of Health and Social Welfare; NUC",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2024/03/14/tinubu-approves-upgrade-of-enugu-dental-college-to-university/",
+          "label": "Nairametrics: Tinubu approves upgrade of Enugu dental college to university (14 Mar 2024)"
+        },
+        {
+          "url": "https://thecable.ng/tinubu-approves-upgrade-of-federal-college-of-dental-technology-in-enugu-to-varsity",
+          "label": "TheCable: Tinubu approves upgrade of Federal College of Dental Technology in Enugu to varsity"
+        },
+        {
+          "url": "https://leadership.ng/nuc-verifies-18-degree-courses-at-new-federal-varsity-of-allied-sciences-in-enugu/",
+          "label": "Leadership: NUC verifies 18 degree courses at new federal varsity of allied sciences in Enugu"
+        }
+      ]
+    },
+    {
+      "id": "r54",
+      "kind": "achievement",
+      "rank": 54,
+      "theme": "education",
+      "status": "Approved / funded",
+      "sector": "Education & universities",
+      "location": "Abia, Imo",
+      "date": "2025-06",
+      "title": "Three new federal institutions for Abia and Imo signed",
+      "figure": "3 institutions.",
+      "description": "In June 2025 President Tinubu signed bills establishing three institutions: the Federal University of Medical and Health Sciences, Item (Bende), and the Federal College of Education, Bende, both in Abia, and Federal University, Okigwe, in Imo. Deputy Speaker Benjamin Kalu sponsored the two Abia bills, and Sen. Patrick Ndubueze sponsored the Okigwe bill. Senate President Akpabio and Ohanaeze Ndigbo praised the move.",
+      "creditedTo": "Presidency; National Assembly (Dep. Speaker Benjamin Kalu, Sen. Patrick Ndubueze)",
+      "sources": [
+        {
+          "url": "https://www.thecable.ng/tinubu-signs-bills-establishing-three-tertiary-institutions-in-south-east",
+          "label": "TheCable: Tinubu signs bills establishing three tertiary institutions in South-East"
+        },
+        {
+          "url": "https://businessday.ng/?p=987822",
+          "label": "BusinessDay: Tinubu signs bills establishing three tertiary institutions in Abia, Imo (18 Jun 2025)"
+        },
+        {
+          "url": "https://von.gov.ng/president-tinubu-signs-bills-establishing-three-new-federal-institutions/",
+          "label": "VON: President Tinubu signs bills establishing three new federal institutions"
+        },
+        {
+          "url": "https://nannews.ng/2025/06/19/ohanaeze-lauds-tinubu-for-establishing-3-new-tertiary-institutions-in-south-east",
+          "label": "NAN: Ohanaeze lauds Tinubu for establishing 3 new tertiary institutions in South-East"
+        },
+        {
+          "url": "https://primeprogressng.com/education-stories/tinubu-expands-federal-universities-but-is-zonal-equity-still-missing/",
+          "label": "Prime Progress: Tinubu expands federal universities - but is zonal equity still missing?"
+        }
+      ]
+    },
+    {
+      "id": "r55",
+      "kind": "achievement",
+      "rank": 55,
+      "theme": "education",
+      "status": "Approved / funded",
+      "sector": "Education & universities",
+      "location": "Enugu",
+      "date": "2025-08",
+      "title": "Federal University of Agriculture, Ako-Nike (Enugu) signed",
+      "figure": "",
+      "description": "President Tinubu signed into law the bill establishing the Federal University of Agriculture, Ako-Nike, in the Enugu East/Isi-Uzo constituency. The bill was sponsored by Rep. Paul Nnamchi. It is meant to be a centre for agricultural innovation and food security.",
+      "creditedTo": "Presidency; National Assembly (Rep. Paul Nnamchi)",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/tinubu-govt-establishes-another-federal-university-in-enugu/",
+          "label": "FMINO/FIC Enugu: Tinubu Govt establishes another Federal University in Enugu"
+        }
+      ]
+    },
+    {
+      "id": "r56",
+      "kind": "achievement",
+      "rank": 56,
+      "theme": "education",
+      "status": "Approved / funded",
+      "sector": "Education & universities",
+      "location": "Imo, Enugu",
+      "date": "2026-03",
+      "title": "FUTO and ESUT in N4bn-each engineering upgrade",
+      "figure": "N4bn per university; 12 universities (national).",
+      "description": "On 2 March 2026 the federal government named 12 universities to receive N4bn each through TETFund for engineering upgrades. The published list includes FUT Owerri and Enugu State University of Science and Technology.",
+      "creditedTo": "Federal Ministry of Education; TETFund",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2026/03/02/fg-allocates-n4-billion-each-to-fut-akure-11-other-universities-for-engineering-upgrades/",
+          "label": "Nairametrics: FG allocates N4 billion each to FUT Akure, 11 other universities for engineering upgrades"
+        }
+      ]
+    },
+    {
+      "id": "r57",
+      "kind": "achievement",
+      "rank": 57,
+      "theme": "education",
+      "status": "Completed",
+      "sector": "Education & universities",
+      "location": "Anambra",
+      "date": "2023-12",
+      "title": "TETFund projects inaugurated at UNIZIK (N2.8bn)",
+      "figure": "N2,775,227,111.78 for 6 buildings; N10,567,075,176 allocated for infrastructure (87.33% accessed); 126 lecturers sponsored for PhDs (N1.33bn).",
+      "description": "On 8 December 2023 the federal government inaugurated six TETFund-funded buildings worth N2.78bn at Nnamdi Azikiwe University, Awka and Agulu. They include lecture halls, a Social Sciences faculty building and Pharmacy laboratories. TETFund said N10.57bn had been allocated to UNIZIK for infrastructure, with about 87.33% accessed.",
+      "creditedTo": "TETFund; Deputy Speaker Benjamin Kalu (represented)",
+      "sources": [
+        {
+          "url": "https://gazettengr.com/fg-inaugurates-n2-8-billion-tetfund-projects-in-nnamdi-azikiwe-varsity/",
+          "label": "Peoples Gazette/NAN: FG inaugurates N2.8 billion TETFund projects in Nnamdi Azikiwe varsity"
+        },
+        {
+          "url": "https://leadership.ng/deputy-speaker-commissions-n2-8bn-tetfund-projects-at-unizik/",
+          "label": "Leadership: Deputy Speaker commissions N2.8bn TETFund projects at UNIZIK"
+        }
+      ]
+    },
+    {
+      "id": "r58",
+      "kind": "achievement",
+      "rank": 58,
+      "theme": "education",
+      "status": "Completed",
+      "sector": "Education & universities",
+      "location": "Ebonyi",
+      "date": "2023-12",
+      "title": "Tinubu, via Umahi, inaugurates TETFund projects at EBSU",
+      "figure": "About N1.5bn for 3 projects (Dec 2023); separately N1,339,791,726.06 for 3 buildings.",
+      "description": "In December 2023 Works Minister Dave Umahi, representing President Tinubu, inaugurated three TETFund projects at the Ebonyi State University permanent site: ICT, a library complex and a Faculty of Education building. A separate set of three EBSU TETFund buildings worth about N1.34bn was also commissioned.",
+      "creditedTo": "TETFund; Presidency (represented by Minister of Works)",
+      "sources": [
+        {
+          "url": "https://ait.live/president-tinubu-inaugurates-tetfund-projects-in-ebonyi-state-university/",
+          "label": "AIT: President Tinubu inaugurates TETFund projects in Ebonyi State University"
+        },
+        {
+          "url": "https://von.gov.ng/?p=389396",
+          "label": "VON: TetFund commissions over N1.3bn projects in Ebonyi varsity"
+        }
+      ]
+    },
+    {
+      "id": "r59",
+      "kind": "achievement",
+      "rank": 59,
+      "theme": "education",
+      "status": "Completed",
+      "sector": "Education & universities",
+      "location": "Enugu",
+      "date": "2025-11",
+      "title": "TETFund commissions N1.05bn projects at IMT Enugu",
+      "figure": "N1.059bn for 5 projects; N6.22bn accessed of N7.24bn allocated.",
+      "description": "In early November 2025 TETFund's South-East trustee commissioned five projects worth about N1.06bn at the Institute of Management and Technology (IMT), Enugu. They include an International Conference Centre and Mass Communication, General Studies and Engineering buildings. IMT has accessed N6.22bn of the N7.24bn TETFund allocated to it for infrastructure.",
+      "creditedTo": "TETFund",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2025/11/03/tetfund-imt-enugu-has-assessed-over-n6bn-in-infrastructure-fund",
+          "label": "ThisDay: TETFund - IMT Enugu has accessed over N6bn in infrastructure fund (3 Nov 2025)"
+        },
+        {
+          "url": "https://guardian.ng/?p=2711206",
+          "label": "Guardian: TETFund unveils N1.05b infrastructure at IMT"
+        }
+      ]
+    },
+    {
+      "id": "r60",
+      "kind": "achievement",
+      "rank": 60,
+      "theme": "education",
+      "status": "Completed",
+      "sector": "Education & universities",
+      "location": "Anambra",
+      "date": "2023-12",
+      "title": "N550m TETFund hostels at Federal Polytechnic Oko",
+      "figure": "N550m for 2 hostels.",
+      "description": "On 2 December 2023 the federal government inaugurated two TETFund-funded student hostels worth N550m at Federal Polytechnic Oko, Anambra State.",
+      "creditedTo": "TETFund; Senate Committee on TETFund",
+      "sources": [
+        {
+          "url": "https://gazettengr.com/fg-inaugurates-n550-million-tetfund-hostels-in-anambra-poly/",
+          "label": "Peoples Gazette/NAN: FG inaugurates N550 million TETFund hostels in Anambra poly"
+        }
+      ]
+    },
+    {
+      "id": "r61",
+      "kind": "achievement",
+      "rank": 61,
+      "theme": "education",
+      "status": "Approved / funded",
+      "sector": "Education & universities",
+      "location": "South-East",
+      "date": "2026-01",
+      "title": "TETFund yearly allocations reach every SE public institution",
+      "figure": "2025: N2,860,562,352.66 per university (includes N300m zonal); N1,994,335,731.71 per polytechnic; N2,178,428,260.79 per college of education; over N700bn total. 2026: about N2.525bn, N1.871bn and N2.056bn respectively; 271 beneficiary institutions.",
+      "description": "NATIONAL: For 2025, TETFund set about N2.86bn per university, N1.99bn per polytechnic and N2.18bn per college of education, each including a zonal intervention component. The total approved for beneficiary institutions was over N700bn. For 2026, the figures are about N2.525bn per university, N1.871bn per polytechnic and N2.056bn per college of education across 271 institutions. Every eligible federal and state public tertiary institution in the South-East receives these per-institution sums.",
+      "creditedTo": "TETFund (Executive Secretary Sonny Echono)",
+      "sources": [
+        {
+          "url": "https://dailytrust.com/tetfund-varsities-to-get-n2-8bn-polys-n1-9bn-coes-n2-1bn-each-in-2025-allocations",
+          "label": "Daily Trust: TETFund - varsities to get N2.8bn, polys N1.9bn, COEs N2.1bn each in 2025"
+        },
+        {
+          "url": "https://allafrica.com/stories/202601130351.html",
+          "label": "AllAfrica/ThisDay: TETFund unveils 2026 intervention (13 Jan 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r62",
+      "kind": "achievement",
+      "rank": 62,
+      "theme": "education",
+      "status": "Approved / funded",
+      "sector": "Education & universities",
+      "location": "South-East",
+      "date": "2026-05",
+      "title": "N250bn national student hostel programme",
+      "figure": "Over N250bn total; N2bn each for at least 50 institutions (minimum 500 beds each); N80bn for PPP hostels at 24 institutions (1,200-1,500 beds).",
+      "description": "NATIONAL: In May 2026 Education Minister Tunji Alausa announced over N250bn for student accommodation. It includes N2bn each for hostels of at least 500 beds at no fewer than 50 tertiary institutions and N80bn for public-private partnership hostels at 24 federal institutions.",
+      "creditedTo": "Federal Ministry of Education; TETFund",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2026/05/08/accommodation-crisis-fg-commits-over-n250bn-in-tertiary-institutions/",
+          "label": "ThisDay: Accommodation crisis - FG commits over N250bn in tertiary institutions (8 May 2026)"
+        },
+        {
+          "url": "https://nannews.ng/fg-approves-n250bn-for-student-hostel-construction-nationwide-alausa/",
+          "label": "NAN: FG approves N250bn for student hostel construction nationwide - Alausa"
+        }
+      ]
+    },
+    {
+      "id": "r63",
+      "kind": "achievement",
+      "rank": 63,
+      "theme": "education",
+      "status": "Announced",
+      "sector": "Education & universities",
+      "location": "Ebonyi",
+      "date": "2024-05",
+      "title": "Bill for Federal Polytechnic Onueke, Ebonyi advancing",
+      "figure": "",
+      "description": "A bill sponsored by Sen. Kenneth Eze (APC-Ebonyi), first presented on 1 August 2023, would establish a Federal Polytechnic at Onueke, Ezza South LGA. It passed second reading in the Senate on 15 May 2024 and went to the Committee on Education and Tertiary Institutions.",
+      "creditedTo": "Senate (Sen. Kenneth Eze)",
+      "sources": [
+        {
+          "url": "https://gazettengr.com/senate-advances-bill-to-establish-federal-polytechnic-in-ebonyi/",
+          "label": "Peoples Gazette: Senate advances bill to establish federal polytechnic in Ebonyi"
+        },
+        {
+          "url": "https://newtelegraphng.com/senate-stakeholders-endorse-establishment-of-fed-poly-onueke/",
+          "label": "New Telegraph: Senate, stakeholders endorse establishment of Fed Poly Onueke"
+        }
+      ]
+    },
+    {
+      "id": "r64",
+      "kind": "achievement",
+      "rank": 64,
+      "theme": "education",
+      "status": "Announced",
+      "sector": "Education & universities",
+      "location": "Enugu",
+      "date": "2025",
+      "title": "Bill to upgrade FCE Eha-Amufu to a university",
+      "figure": "",
+      "description": "A House bill by Rep. Paul Nnamchi would amend the Federal Colleges of Education Act to upgrade the Federal College of Education, Eha-Amufu, to a Federal University of Education. It has passed second reading in the House.",
+      "creditedTo": "House of Representatives (Rep. Paul Nnamchi)",
+      "sources": [
+        {
+          "url": "https://von.gov.ng/?p=376102",
+          "label": "VON: Bill to upgrade Eha-Amufu College to University scales through 2nd reading"
+        }
+      ]
+    },
+    {
+      "id": "r65",
+      "kind": "achievement",
+      "rank": 65,
+      "theme": "power",
+      "status": "Completed",
+      "sector": "Power & energy",
+      "location": "Imo",
+      "date": "2024-05",
+      "title": "Tinubu inaugurates ANOH gas processing plant in Imo",
+      "figure": "ANOH and AHL together about 500 MMscf/d, over 25% growth in domestic gas supply (national, presidency claim); 23.3 km pipeline",
+      "description": "On 15 May 2024 Tinubu inaugurated the ANOH Gas Processing Plant in Ohaji/Egbema, Imo (NNPC, Seplat and SEEPCO) with a 23.3 km ANOH–OB3 pipeline, alongside the AHL plant in Delta.",
+      "creditedTo": "Presidency; NNPC Ltd; Seplat",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2024/05/15/tinubu-ahl-and-anoh-gas-plants-to-boost-nigerias-gas-supply-by-25/",
+          "label": "Nairametrics: Tinubu — AHL and ANOH gas plants to boost Nigeria's gas supply by 25% (15 May 2024)"
+        },
+        {
+          "url": "https://guardian.ng/?p=2388343",
+          "label": "Guardian: Tinubu inaugurates gas infrastructure projects in Delta, Imo"
+        }
+      ]
+    },
+    {
+      "id": "r66",
+      "kind": "achievement",
+      "rank": 66,
+      "theme": "power",
+      "status": "Completed",
+      "sector": "Power & energy",
+      "location": "Abia",
+      "date": "2024-02",
+      "title": "Aba Integrated Power Project commissioned",
+      "figure": "141 MW, expandable to 188 MW; about US$800m (company CEO Barth Nnaji)",
+      "description": "Vice President Shettima, representing Tinubu, commissioned Geometric Power's Aba Integrated Power Project in February 2024. On the same visit he commissioned Hospital, Jubilee and Omoba roads in Aba. The power minister said excess power would feed the national grid.",
+      "creditedTo": "Presidency; Federal Ministry of Power; Geometric Power (private)",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/president-tinubu-commission-geometric-power-in-abia-extols-governor-otti-bart-nnaji/",
+          "label": "FMINO: President Tinubu commissions Geometric Power in Abia (29 Feb 2024)"
+        }
+      ]
+    },
+    {
+      "id": "r67",
+      "kind": "achievement",
+      "rank": 67,
+      "theme": "power",
+      "status": "Completed",
+      "sector": "Power & energy",
+      "location": "Enugu, Imo, Abia, Anambra",
+      "date": "2026-04",
+      "title": "Electricity Act 2023 lets SE states run their own power markets; Enugu first in Nigeria",
+      "figure": "Enugu effective 1 May 2024; 15 states had assumed regulation nationally by April 2026, 4 of them in the South-East",
+      "description": "Tinubu signed the Electricity Act 2023 in June 2023, allowing states to regulate intra-state electricity markets. Enugu became the first state to take over regulation from NERC, effective 1 May 2024. Imo followed (order of June 2024), then Abia (order of June 2025) and Anambra, which completed around the turn of 2026. Ebonyi had not transferred as of April 2026.",
+      "creditedTo": "Presidency; NERC; state electricity regulators",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2023/06/09/president-bola-tinubu-signs-electricity-act-2023-into-law/",
+          "label": "Nairametrics: President Tinubu signs Electricity Act 2023 into law (9 Jun 2023)"
+        },
+        {
+          "url": "https://businessday.ng/news/article/nerc-hands-over-regulatory-oversight-of-enugu-electricity-market-to-state-government",
+          "label": "BusinessDay: NERC hands over regulatory oversight of Enugu electricity market (22 Apr 2024)"
+        },
+        {
+          "url": "https://www.thecable.ng/nerc-transfers-regulatory-oversight-of-abia-electricity-market-to-state-government",
+          "label": "TheCable: NERC transfers oversight of Abia electricity market (Jun 2025)"
+        },
+        {
+          "url": "https://www.thisdaylive.com/2026/04/16/15-states-assume-power-regulation-under-new-electricity-act/",
+          "label": "ThisDay: 15 states assume power regulation under new Electricity Act (16 Apr 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r68",
+      "kind": "achievement",
+      "rank": 68,
+      "theme": "power",
+      "status": "Completed",
+      "sector": "Power & energy",
+      "location": "Ebonyi",
+      "date": "2026-01",
+      "title": "TCN adds 75MVA transformer at Abakaliki substation",
+      "figure": "75MVA new; substation capacity 135MVA; 60MVA replacement to add 48MW",
+      "description": "The Transmission Company of Nigeria inaugurated a new 75MVA 132/33kV transformer at the Mile 50 Abakaliki substation under TCN–World Bank projects, raising the substation's capacity to 135MVA. TCN also approved procurement of a 60MVA replacement unit.",
+      "creditedTo": "Transmission Company of Nigeria",
+      "sources": [
+        {
+          "url": "https://gazettengr.com/tcn-inaugurates-75mva-power-transformer-in-abakaliki-substation/",
+          "label": "Peoples Gazette: TCN inaugurates 75MVA power transformer in Abakaliki substation (29 Jan 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r69",
+      "kind": "achievement",
+      "rank": 69,
+      "theme": "power",
+      "status": "Approved / funded",
+      "sector": "Power & energy",
+      "location": "Abia, Imo, Anambra",
+      "date": "2026-01",
+      "title": "AfDB-funded upgrade of Alaoji–Onitsha 330kV transmission line",
+      "figure": "330kV; 12 LGAs affected",
+      "description": "TCN, with AfDB funding through the Federal Ministry of Finance, is preparing to upgrade the Alaoji–Onitsha 330kV line to a quad-circuit configuration that more than doubles its capacity. Sensitisation of affected persons across 12 LGAs in Abia, Imo and Anambra took place on 6–8 January 2026.",
+      "creditedTo": "Transmission Company of Nigeria; AfDB; Federal Ministry of Finance",
+      "sources": [
+        {
+          "url": "https://thewhistler.ng/alaoji-onitsha-upgrade-to-boost-power-reliability-in-southeast-say-tcn-afdb",
+          "label": "The Whistler: Alaoji–Onitsha upgrade to boost power reliability in Southeast (10 Jan 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r70",
+      "kind": "achievement",
+      "rank": 70,
+      "theme": "power",
+      "status": "Announced",
+      "sector": "Power & energy",
+      "location": "South-East",
+      "date": "2026-10",
+      "title": "South-East gas pipeline network: NNPC 178 km plan and SEDC 400 km project launched",
+      "figure": "NNPC: 178 km, first gas 2027 (target); SEDC: 400 km (proposed)",
+      "description": "In December 2025 NNPC announced a 178 km gas network to reach industrial clusters in Aba, Nnewi and Enugu, targeting first gas in 2027. On 27 October 2026 the South East Development Commission, with Gas Sync and NNPC Gas Marketing, launched a proposed 400 km South-East Gas Distribution Pipeline from the ANOH plant to all five states. Tinubu was represented by Deputy Speaker Benjamin Kalu.",
+      "creditedTo": "NNPC Ltd; South East Development Commission",
+      "sources": [
+        {
+          "url": "https://moneycentral.com.ng/energy/article/nnpc-breaks-ground-on-178-kilometre-gas-network-to-power-southeast-industry-hubs/",
+          "label": "Moneycentral: NNPC breaks ground on 178km gas network to power Southeast industry hubs (Dec 2025)"
+        },
+        {
+          "url": "https://www.thisdaylive.com/2026/10/27/tinubu-south-east-must-move-from-promises-to-realities/",
+          "label": "ThisDay: Tinubu — South-east must move from promises to realities (27 Oct 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r71",
+      "kind": "achievement",
+      "rank": 71,
+      "theme": "power",
+      "status": "Ongoing",
+      "sector": "Power & energy",
+      "location": "Imo, South-East",
+      "date": "2025-03",
+      "title": "CNG rollout: Owerri gets a conversion centre, but the South-East has few stations",
+      "figure": "60 technicians trained (Mar 2025)",
+      "description": "Kojo Motors opened a CNG conversion centre in Owerri on land from Imo State, in partnership with the federal NADDC, which trained 60 conversion technicians. A Guardian investigation found no Presidential CNG Initiative filling stations or conversion centres anywhere in the South-East.",
+      "creditedTo": "NADDC (Federal Ministry of Industry, Trade and Investment); Kojo Motors; Imo State",
+      "sources": [
+        {
+          "url": "https://thisdaylive.com/index.php/2025/03/22/kojo-motors-opens-cng-conversion-centre-in-owerri",
+          "label": "ThisDay: Kojo Motors opens CNG conversion centre in Owerri"
+        },
+        {
+          "url": "https://guardian.ng/features/dearth-of-infrastructure-mistrust-turning-pi-cng-to-another-white-elephant-project/",
+          "label": "Guardian: Dearth of infrastructure, mistrust turning Pi-CNG to another white elephant project"
+        }
+      ]
+    },
+    {
+      "id": "r72",
+      "kind": "achievement",
+      "rank": 72,
+      "theme": "housing",
+      "status": "Approved / funded",
+      "sector": "Housing",
+      "location": "Enugu, Imo",
+      "date": "2026-11",
+      "title": "Renewed Hope student housing: ₦18.69bn from Family Homes Fund Limited for 5,468 beds at four South-East campuses",
+      "figure": "4 projects; 5,468 student beds; ₦18.69bn total investment; 5,400+ jobs anticipated. ESUT 1,600 beds / ₦5.08bn (approved and ongoing); UNN 1,264 / ₦4.80bn; FUTO 1,004 / ₦3.79bn; Fed Poly Nekede 1,600 / ₦5.016bn (approved)",
+      "description": "Family Homes Fund Limited, the federal social-housing fund, is financing student hostels at four South-East institutions under the Renewed Hope Student Housing programme: ESUT (1,600 beds, ₦5.08bn, approved and under way), UNN Nsukka (1,264 beds, ₦4.80bn), FUTO Owerri (1,004 beds, ₦3.79bn) and Federal Polytechnic Nekede, Owerri (1,600 beds, ₦5.016bn), the last three approved. Together: 5,468 beds, ₦18.69bn and more than 5,400 jobs anticipated.",
+      "creditedTo": "Family Homes Fund Limited; TETFund; private partners",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2025/10/03/family-homes-funds-tetfund-and-private-investors-lead-national-ppp-drive-for-renewed-hope-student-housing-projects/",
+          "label": "Nairametrics: Family Homes Funds, TETFund and private investors lead national PPP drive for Renewed Hope student housing (3 Oct 2025)"
+        },
+        {
+          "url": "https://nsia.com.ng/portfolio/family-homes-fund-limited",
+          "label": "NSIA portfolio: Family Homes Fund Limited (participants NSIA, MOFI, Ministry of Finance)"
+        },
+        {
+          "url": "",
+          "label": "Family Homes Funds Limited: South East Projects Update (progress update, Nov 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r73",
+      "kind": "achievement",
+      "rank": 73,
+      "theme": "housing",
+      "status": "Ongoing",
+      "sector": "Housing",
+      "location": "Abia",
+      "date": "2026-04",
+      "title": "FHA starts 1,200-unit Renewed Hope Estate in Umuahia after 18-year wait",
+      "figure": "At least 1,200 units; 100 hectares; 900+ land claimants, 800+ compensated",
+      "description": "The Federal Housing Authority and the Abia State Government broke ground on an estate of at least 1,200 units on 100 hectares along the Ubani-Uzuakoli road, Umuahia North. Abia is the first South-East state, and fifth nationally, in this FHA programme.",
+      "creditedTo": "Federal Housing Authority (FHA); Abia State Government",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2026/04/22/after-18-years-fg-abia-partner-to-build-fha-renewed-hope-estate-umuahia/",
+          "label": "ThisDay: After 18 years, FG, Abia partner to build FHA Renewed Hope Estate, Umuahia"
+        }
+      ]
+    },
+    {
+      "id": "r74",
+      "kind": "achievement",
+      "rank": 74,
+      "theme": "housing",
+      "status": "Ongoing",
+      "sector": "Housing",
+      "location": "Abia",
+      "date": "2024-06",
+      "title": "250-unit Renewed Hope Estate begun in Bende, Abia",
+      "figure": "250 units (50 one-bed, 150 two-bed, 50 three-bed); N50bn 2023 Supplementary Budget funds the first 12 estates",
+      "description": "Housing Minister Dangiwa and Governor Otti broke ground on a 250-unit Renewed Hope Estate in Bende LGA, near Umuahia. It is part of 2,000 units in eight states funded from the 2023 Supplementary Budget.",
+      "creditedTo": "Federal Ministry of Housing and Urban Development",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/abia-governor-otti-appreciates-fg-for-renewed-hope-housing-estate/",
+          "label": "FMINO: Abia Governor, Otti appreciates FG for Renewed Hope Housing Estate"
+        }
+      ]
+    },
+    {
+      "id": "r75",
+      "kind": "achievement",
+      "rank": 75,
+      "theme": "housing",
+      "status": "Ongoing",
+      "sector": "Housing",
+      "location": "Ebonyi",
+      "date": "2024-06",
+      "title": "250-unit Renewed Hope Estate begun in Ezza North, Ebonyi",
+      "figure": "250 units; 6,500 projected jobs",
+      "description": "Ground was broken on a 250-unit Renewed Hope Estate at Umuezekohu, Ezza North LGA. Homes can be bought on single-digit 30-year mortgages, rent-to-own through the Federal Mortgage Bank, or outright purchase. Governor Nwifuru asked for at least 60% of units to go to Ebonyi indigenes.",
+      "creditedTo": "Federal Ministry of Housing and Urban Development",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/fg-to-create-6500-jobs-in-ebonyi-through-renewed-hope-housing-project/",
+          "label": "FMINO: FG to create 6,500 jobs in Ebonyi through Renewed Hope Housing project"
+        }
+      ]
+    },
+    {
+      "id": "r76",
+      "kind": "achievement",
+      "rank": 76,
+      "theme": "housing",
+      "status": "Announced",
+      "sector": "Housing",
+      "location": "Enugu",
+      "date": "2024-10",
+      "title": "Ground broken for 10,000-unit private-led housing layout in Enugu",
+      "figure": "10,000 units; 260 hectares; 2,000-unit Renewed Hope City planned",
+      "description": "Minister Dangiwa broke ground at Graceland Estate in Enugu's Coal City Eastern Extension Layout, a 10,000-unit scheme on 260 hectares provided by Enugu State and led by developer COPEN Group. The minister also said Enugu is slated for a 2,000-unit Renewed Hope City.",
+      "creditedTo": "Federal Ministry of Housing and Urban Development; Enugu State; COPEN Group",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2024/10/10/dangiwa-conducts-groundbreaking-for-10000-housing-units-in-enugu/",
+          "label": "ThisDay: Dangiwa conducts groundbreaking for 10,000 housing units in Enugu"
+        }
+      ]
+    },
+    {
+      "id": "r77",
+      "kind": "achievement",
+      "rank": 77,
+      "theme": "economy",
+      "status": "Completed",
+      "sector": "Agriculture",
+      "location": "Imo, Enugu, Anambra, Ebonyi",
+      "date": "2026-07",
+      "title": "80,640 bags of fertiliser for 20,160 South-East farmers",
+      "figure": "80,640 bags; 20,160 farmers",
+      "description": "The South-East phase of the Renewed Hope Farm Input Support Programme was flagged off in Owerri. It distributes fertiliser to registered smallholder farmers in Imo, Enugu, Anambra and Ebonyi.",
+      "creditedTo": "Federal Ministry of Agriculture and Food Security; National Agricultural Development Fund (NADF)",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/fg-launches-renewed-hope-farm-input-support-programme-in-south-east-distributes-80640-fertiliser-bags-to-smallholder-farmers/",
+          "label": "FMINO: FG launches Renewed Hope Farm Input Support Programme in South-East"
+        },
+        {
+          "url": "https://www.arise.tv/fg-distributes-80640-fertiliser-bags-to-20160-south-east-farmers/",
+          "label": "Arise: FG distributes 80,640 fertiliser bags to 20,160 South East farmers"
+        }
+      ]
+    },
+    {
+      "id": "r78",
+      "kind": "achievement",
+      "rank": 78,
+      "theme": "economy",
+      "status": "Completed",
+      "sector": "Agriculture",
+      "location": "Enugu, Anambra",
+      "date": "2024-08",
+      "title": "14,000 Enugu and Anambra farmers get 50%-subsidised inputs",
+      "figure": "14,000 farmers; inputs worth N2.8bn (subsidised value); procurement cost about N5bn; 50% subsidy",
+      "description": "Under ATASP-1 and the National Agricultural Growth Scheme Agro-Pocket (NAGS-AP), 14,000 farmers in the Adani-Omor zone received 50%-subsidised packages: fertiliser, seed (maize, rice or sorghum) and agro-chemicals.",
+      "creditedTo": "Federal Ministry of Agriculture and Food Security (ATASP-1, NAGS-AP)",
+      "sources": [
+        {
+          "url": "https://guardian.ng/?p=2408642",
+          "label": "Guardian: FG distributes agro-inputs worth N2.8b to 14,000 farmers in Anambra, Enugu"
+        },
+        {
+          "url": "https://thesun.ng/lifeline-for-14000-enugu-anambra-smallholder-farmers/",
+          "label": "The Sun: Lifeline for 14,000 Enugu, Anambra smallholder farmers"
+        }
+      ]
+    },
+    {
+      "id": "r79",
+      "kind": "achievement",
+      "rank": 79,
+      "theme": "economy",
+      "status": "Completed",
+      "sector": "Agriculture",
+      "location": "Ebonyi",
+      "date": "2025-10",
+      "title": "Rice seed, fertiliser and pumps for Ebonyi smallholders",
+      "figure": "",
+      "description": "Under its food-security emergency, the Federal Ministry of Agriculture gave Ebonyi cooperatives FARO 44 rice seed, fertilisers, herbicides, knapsack sprayers, water pumps, crates and weighing scales.",
+      "creditedTo": "Federal Ministry of Agriculture and Food Security",
+      "sources": [
+        {
+          "url": "https://nannews.ng/2025/10/03/fg-distributes-farm-inputs-to-ebonyi-smallholder-farmers/",
+          "label": "NAN: FG distributes farm inputs to Ebonyi smallholder farmers"
+        }
+      ]
+    },
+    {
+      "id": "r80",
+      "kind": "achievement",
+      "rank": 80,
+      "theme": "economy",
+      "status": "Completed",
+      "sector": "Agriculture",
+      "location": "Ebonyi",
+      "date": "2025-12",
+      "title": "Dry-season irrigation and processing equipment for Ebonyi via IFAD-VCDP",
+      "figure": "20 irrigation sites; 8 of 13 LGAs covered so far",
+      "description": "The FGN/IFAD Value Chain Development Programme handed out 2025 dry-season inputs and equipment in Abakaliki: solar irrigation, rice mills, cassava processors and pumps. Dry-season farming is expanding to 20 irrigation sites.",
+      "creditedTo": "FGN / IFAD Value Chain Development Programme; Ebonyi State Government",
+      "sources": [
+        {
+          "url": "https://standardtimesng.com/2025/12/18/ebonyi-first-fgn-ifad-vcdp-distribute-dry-season-agricultural-equipment-commissioned-projects/",
+          "label": "Standard Times: Ebonyi, FGN, IFAD-VCDP distribute dry season agricultural equipment"
+        }
+      ]
+    },
+    {
+      "id": "r81",
+      "kind": "achievement",
+      "rank": 81,
+      "theme": "economy",
+      "status": "Completed",
+      "sector": "Digital economy",
+      "location": "Enugu",
+      "date": "2025-05",
+      "title": "NITDA opens South-East regional office in Enugu",
+      "figure": "",
+      "description": "Governor Peter Mbah inaugurated NITDA's South-East zonal office in Enugu with Communications Minister Bosun Tijani and NITDA DG Kashifu Abdullahi. Tijani said the office will support 3MTT, startups and regulatory guidance and called it 'a permanent bridge between national policy and local potential'.",
+      "creditedTo": "Federal Ministry of Communications, Innovation and Digital Economy; NITDA; Enugu State",
+      "sources": [
+        {
+          "url": "https://enugustate.gov.ng/2025/05/09/gov-mbah-commissions-nitda-regional-office-in-enugu/",
+          "label": "Enugu State Government: Gov Mbah commissions NITDA regional office in Enugu (9 May 2025)"
+        },
+        {
+          "url": "https://fmino.gov.ng/gov-mbah-commissions-nitda-regional-office-in-enugu/",
+          "label": "FMINO: Gov Mbah commissions NITDA regional office in Enugu"
+        }
+      ]
+    },
+    {
+      "id": "r82",
+      "kind": "achievement",
+      "rank": 82,
+      "theme": "economy",
+      "status": "Ongoing",
+      "sector": "Digital economy",
+      "location": "Enugu",
+      "date": "2025-04",
+      "title": "Digital Bridge Institute begins operations at Enugu campus",
+      "figure": "2,000 beneficiaries (initial Enugu training); DBI national target 50,000 by 2026",
+      "description": "The Digital Bridge Institute (under NCC) began operations at its upgraded Enugu campus as a digital skills hub supporting 3MTT, with training for 2,000 beneficiaries starting in partnership with the Humanitarian Affairs ministry. Enugu State said it was finalising a 25-year lease with NCC for the DBI and Digital Industrial Park.",
+      "creditedTo": "Digital Bridge Institute / NCC; FMCIDE; Enugu State",
+      "sources": [
+        {
+          "url": "https://www.itedgenews.africa/digital-bridge-institute-begins-operations-at-enugu-campus-to-power-nigerias-digital-workforce/",
+          "label": "ITEdgeNews: Digital Bridge Institute begins operations at Enugu campus"
+        },
+        {
+          "url": "https://techeconomy.ng/enugu-state-ncc-to-sign-25-year-facility-lease-for-dbi-mbah/",
+          "label": "Techeconomy: Enugu State, NCC to sign 25-year facility lease for DBI - Mbah (28 Mar 2025)"
+        }
+      ]
+    },
+    {
+      "id": "r83",
+      "kind": "achievement",
+      "rank": 83,
+      "theme": "economy",
+      "status": "Ongoing",
+      "sector": "Digital economy",
+      "location": "South-East",
+      "date": "2026-01",
+      "title": "3 Million Technical Talent (3MTT): national programme reaching South-East states",
+      "figure": "National: 135,000+ trained; 1.8m+ in pipeline; ~15,000 job/opportunity pathways. Imo: 1,030 phase-one places (Oct 2023)",
+      "description": "3MTT has trained over 135,000 Nigerians across three cohorts nationally (January 2026) and is moving to a scale-up phase, with community managers and meetups in every state including Anambra and Abia. In the 30,000-person first phase, Imo was among the top ten states with 1,030 places; other South-East states had fewer than 1,000 each.",
+      "creditedTo": "FMCIDE; NITDA",
+      "sources": [
+        {
+          "url": "https://techafricanews.com/2026/01/20/nigerias-3mtt-programme-trains-over-135000-citizens-enters-scale-up-phase/",
+          "label": "TechAfrica News: Nigeria's 3MTT programme trains over 135,000 citizens (20 Jan 2026)"
+        },
+        {
+          "url": "https://itedgenews.africa/lago-kano-and-rivers-lead-with-beneficiaries-as-applications-for-3-million-technical-talent-open",
+          "label": "ITEdgeNews: Lagos, Kano and Rivers lead with beneficiaries as applications for 3MTT open (Oct 2023)"
+        },
+        {
+          "url": "https://anambrastate.gov.ng/?p=4435",
+          "label": "Anambra State Government: 3MTT networking meetup in Awka"
+        }
+      ]
+    },
+    {
+      "id": "r84",
+      "kind": "achievement",
+      "rank": 84,
+      "theme": "economy",
+      "status": "Approved / funded",
+      "sector": "Digital economy",
+      "location": "South-East",
+      "date": "2026-10",
+      "title": "Project BRIDGE: 90,000km national fibre backbone (national)",
+      "figure": "National: 90,000km; ~$800m sovereign financing secured (World Bank $500m, AfDB $200m, EBRD $100m) + EU EUR22m grant; ~$1.2bn private capital still needed",
+      "description": "The FG incorporated Bridge Open Access in August 2026 to deliver 90,000km of open-access fibre across all 36 states, with physical rollout from October 2026 and completion targeted for 2028. It aims to connect over 200,000 schools, health facilities and public institutions.",
+      "creditedTo": "FMCIDE; Bridge Open Access",
+      "sources": [
+        {
+          "url": "https://techeconomy.ng/yilwatda-fgs-project-bridge-to-deliver-90000-kilometres-of-fibre-across-36-states-by-2028",
+          "label": "Techeconomy: FG's Project BRIDGE to deliver 90,000km of fibre across 36 states by 2028 (9 Oct 2026)"
+        },
+        {
+          "url": "https://nairametrics.com/2026/08/09/fg-incorporates-company-to-deliver-90000km-nationwide-fibre-network/",
+          "label": "Nairametrics: FG incorporates company to deliver 90,000km nationwide fibre network (9 Aug 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r85",
+      "kind": "achievement",
+      "rank": 85,
+      "theme": "economy",
+      "status": "Completed",
+      "sector": "Skills & jobs",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2026-06",
+      "title": "Skill-Up South East: 95 young people from 95 LGAs trained for four months and equipped",
+      "figure": "95 trainees from 95 LGAs; 4 months of training",
+      "description": "The office of the Senior Special Assistant to the President on Community Engagement (South-East) ran the Skill-Up South East programme, training 95 young people, one from each of the 95 LGAs in the five South-East states, for four months. Graduates received sewing machines and startup funds.",
+      "creditedTo": "Office of the Senior Special Assistant to the President on Community Engagement (South-East)",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/fg-trains-equips-95-south-east-youths-for-entrepreneurship/",
+          "label": "FMINO: FG trains, equips 95 South-East youths for entrepreneurship"
+        }
+      ]
+    },
+    {
+      "id": "r86",
+      "kind": "achievement",
+      "rank": 86,
+      "theme": "economy",
+      "status": "Ongoing",
+      "sector": "Skills & jobs",
+      "location": "Abia",
+      "date": "2026-09",
+      "title": "Family Homes Fund Limited artisan training (FAST): 150 trainees in Bende, Abia",
+      "figure": "150 trainees; 19 women; 4 trades; 85% weekly pass rate reported; graduation December 2026",
+      "description": "The Abia edition of Family Homes Fund Limited's Artisan Skills Training (FAST) programme at Bende Central School has 150 trainees in painting (54), electrical (34), plumbing (20) and masonry/tiling (12). Each artisan receives, at no cost, NOS-based training with live-site practicals, safety gear, a monthly stipend paid into their own bank account, a starter tool pack and an independently assessed NSQ certificate (NIOB). Graduation is set for December 2026.",
+      "creditedTo": "Family Homes Fund Limited; NIOB; C-STEMP",
+      "sources": [
+        {
+          "url": "",
+          "label": "Family Homes Funds Limited: South East Projects Update (progress update, Nov 2026)"
+        }
+      ]
+    },
+    {
+      "id": "r87",
+      "kind": "achievement",
+      "rank": 87,
+      "theme": "economy",
+      "status": "Announced",
+      "sector": "Industry & trade",
+      "location": "Abia",
+      "date": "2026-10",
+      "title": "FG promises infrastructure and finance to revive Aba textiles; NALDA seeks Abia mega-farm site",
+      "figure": "",
+      "description": "At a meeting with Governor Otti in Umuahia, the President's Special Adviser on Industry, Trade and Investment pledged federal help with infrastructure and finance to revive Aba's textile and garment industry. NALDA asked for land to build a Renewed Hope Mega Farm Estate in Abia.",
+      "creditedTo": "Presidency (SA Industry, Trade & Investment); NALDA",
+      "sources": [
+        {
+          "url": "https://www.nigerianeye.com/2026/10/fg-moves-to-revive-aba-textile-industry.html",
+          "label": "NigerianEye: FG moves to revive Aba textile industry"
+        }
+      ]
+    },
+    {
+      "id": "r88",
+      "kind": "achievement",
+      "rank": 88,
+      "theme": "health",
+      "status": "Completed",
+      "sector": "Health",
+      "location": "Enugu",
+      "date": "2025-07",
+      "title": "Upgraded cancer centre with new linear accelerator opens at UNTH Enugu",
+      "figure": "",
+      "description": "Health Minister Pate inaugurated the upgraded oncology centre at UNTH, Ituku-Ozalla. It has a new linear accelerator, a CT scanner and a water treatment plant, and is managed by NSIA subsidiary MedServe. Pate said it will serve the whole South-East.",
+      "creditedTo": "Federal Ministry of Health and Social Welfare; NSIA/MedServe",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2025/07/25/to-boost-cancer-care-fg-inaugurates-oncology-centres-in-katsina-enugu-edo/",
+          "label": "ThisDay: To boost cancer care, FG inaugurates oncology centres in Katsina, Enugu, Edo"
+        },
+        {
+          "url": "https://nairametrics.com/2024/02/16/president-tinubu-approves-immediate-health-infrastructure-upgrade-across-nigeria",
+          "label": "Nairametrics: President Tinubu approves immediate health infrastructure upgrade across Nigeria"
+        }
+      ]
+    },
+    {
+      "id": "r89",
+      "kind": "achievement",
+      "rank": 89,
+      "theme": "health",
+      "status": "Completed",
+      "sector": "Health",
+      "location": "Enugu",
+      "date": "2026-05",
+      "title": "Tinubu commissions UNTH administrative complex",
+      "figure": "",
+      "description": "Among health facilities the President commissioned nationwide on Democracy Day 2026, the Administrative Complex of the University of Nigeria Teaching Hospital, Ituku-Ozalla, was opened in a hybrid virtual ceremony. It was the only South-East facility in that batch.",
+      "creditedTo": "State House; Federal Ministry of Health and Social Welfare",
+      "sources": [
+        {
+          "url": "https://statehouse.gov.ng/president-tinubu-commissions-health-facilities-across-nigeria/",
+          "label": "State House: President Tinubu commissions health facilities across Nigeria"
+        }
+      ]
+    },
+    {
+      "id": "r90",
+      "kind": "achievement",
+      "rank": 90,
+      "theme": "health",
+      "status": "Approved / funded",
+      "sector": "Health",
+      "location": "Enugu",
+      "date": "2024-02",
+      "title": "Enugu Medical Diagnostic Centre picked for federal radiology and oncology expansion",
+      "figure": "1 of 10 national service-expansion sites; 12-18 month delivery target",
+      "description": "In February 2024 the President approved upgrades at 16 facilities. The Medical Diagnostic Centre Complex, Enugu, is the South-East site for expanded radiology, clinical pathology and medical/radiation oncology.",
+      "creditedTo": "Federal Ministry of Health and Social Welfare",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2024/02/16/president-tinubu-approves-immediate-health-infrastructure-upgrade-across-nigeria",
+          "label": "Nairametrics: President Tinubu approves immediate health infrastructure upgrade across Nigeria"
+        }
+      ]
+    },
+    {
+      "id": "r91",
+      "kind": "achievement",
+      "rank": 91,
+      "theme": "health",
+      "status": "Approved / funded",
+      "sector": "Health",
+      "location": "Imo",
+      "date": "2026-06",
+      "title": "FG takes over Okigwe General Hospital to make it a Federal Medical Centre",
+      "figure": "",
+      "description": "The Federal Ministry of Health and Imo State signed an MoU to convert General Hospital, Okigwe, into a Federal Medical Centre. Imo handed over the hospital's assets, liabilities and workforce, and a Medical Director was appointed in April 2026.",
+      "creditedTo": "Federal Ministry of Health and Social Welfare; Imo State Government",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/fg-imo-state-government-sign-historic-mou-to-upgrade-general-hospital-okigwe-to-federal-medical-centre/",
+          "label": "FMINO: FG, Imo State Government sign historic MoU to upgrade General Hospital Okigwe to FMC"
+        }
+      ]
+    },
+    {
+      "id": "r92",
+      "kind": "achievement",
+      "rank": 92,
+      "theme": "health",
+      "status": "Ongoing",
+      "sector": "Security",
+      "location": "South-East",
+      "date": "2023-12",
+      "title": "Peace in South-East Project (PISE-P): non-kinetic security initiative",
+      "figure": "",
+      "description": "Deputy Speaker Benjamin Kalu launched PISE-P, a non-kinetic approach to South-East insecurity focused on reconciliation, root causes and youth empowerment, at Bende, Abia, with VP Shettima representing President Tinubu. Shettima had earlier endorsed the concept at the Villa (Dec 2023).",
+      "creditedTo": "Deputy Speaker's office; Office of the Vice President",
+      "sources": [
+        {
+          "url": "https://statehouse.gov.ng/vp-shettima-supports-non-kinetic-approach-to-insecurity-in-south-east/",
+          "label": "State House: VP Shettima supports non-kinetic approach to insecurity in South East"
+        },
+        {
+          "url": "https://thisdaylive.com/index.php/2024/01/11/gains-of-pise-ps-launch-for-sustained-peace-security-in-southeast",
+          "label": "ThisDay: Gains of PISE-P's launch for sustained peace, security in Southeast"
+        }
+      ]
+    },
+    {
+      "id": "r93",
+      "kind": "achievement",
+      "rank": 93,
+      "theme": "health",
+      "status": "Ongoing",
+      "sector": "Security",
+      "location": "South-East",
+      "date": "2026-09",
+      "title": "Operation UDO KA: military operations against IPOB/ESN armed groups",
+      "figure": "",
+      "description": "Joint Task Force South-East (Operation UDO KA), under the Army's 82 Division, continues intelligence-led clearance operations. In September 2026 the GOC described the zone as 'relatively stable and firmly under control' and announced intensified dry-season operations (Operation EASTERN SANITY II).",
+      "creditedTo": "Nigerian Army / Defence Headquarters",
+      "sources": [
+        {
+          "url": "https://allafrica.com/stories/202609080266.html",
+          "label": "AllAfrica: Army to sustain offensive against separatists in South-East - GOC (Sep 2026)"
+        },
+        {
+          "url": "https://guardian.ng/?p=2890392",
+          "label": "Guardian: Militants surrender arms as troops recover more weapons, IED in South-East"
+        }
+      ]
+    },
+    {
+      "id": "r94",
+      "kind": "achievement",
+      "rank": 94,
+      "theme": "health",
+      "status": "Ongoing",
+      "sector": "Health",
+      "location": "Imo",
+      "date": "2025",
+      "title": "Imo ranks 6th nationally for health-insurance enrolment",
+      "figure": "Imo: 701,147 enrollees, of whom 502,217 are under the state scheme (Q4 2025)",
+      "description": "NHIA data for the end of 2025 show 701,147 health-insurance enrollees in Imo, sixth highest in Nigeria. Enugu, Anambra, Abia and Ebonyi were not in the top 10.",
+      "creditedTo": "National Health Insurance Authority (NHIA); Imo State Health Insurance Agency",
+      "sources": [
+        {
+          "url": "https://nairametrics.com/2026/07/02/top-10-nigerian-states-with-the-largest-health-insurance-coverage-in-2025/",
+          "label": "Nairametrics: Top 10 Nigerian states with the largest health insurance coverage in 2025"
+        }
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "s0",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Announced",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2026-10",
+      "title": "Tinubu: 'Prosperity of the South East is inseparable from the prosperity of Nigeria'",
+      "figure": "",
+      "description": "At the South East Gas Pipeline Infrastructure Investment Ceremony in Enugu (represented by Deputy Speaker Kalu), Tinubu said he established SEDC 'to be an institution of delivery' and approved the South East Investment Company. He cited the proposed five-state gas distribution pipeline and first gas at the Assa North-Ohaji South project in Imo.",
+      "creditedTo": "Presidency; SEDC",
+      "sources": [
+        {
+          "url": "https://www.thisdaylive.com/2026/10/28/tinubu-why-i-signed-sedc-bill-into-law/",
+          "label": "ThisDay: Tinubu: Why I signed SEDC bill into law (28 Oct 2026)"
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "Imo",
+      "date": "2023-10",
+      "title": "Tinubu (via VP Shettima): South-East 'remains crucial' to Nigeria's growth",
+      "figure": "",
+      "description": "At the APC governorship campaign flag-off in Owerri, VP Shettima, representing Tinubu, said the South-East remains crucial to the country's growth and development; the State House release is headlined 'South East remains pivotal to Nigeria's growth - President Tinubu'.",
+      "creditedTo": "Presidency (statement by SSA Media Stanley Nkwocha)",
+      "sources": [
+        {
+          "url": "https://statehouse.gov.ng/south-east-remains-pivotal-to-nigerias-growth-president-tinubu/",
+          "label": "State House: South East remains pivotal to Nigeria's growth - President Tinubu"
+        },
+        {
+          "url": "https://nannews.ng/south-east-remains-pivotal-to-national-growth-tinubu/",
+          "label": "NAN: South east remains pivotal to national growth - Tinubu (11 Oct 2023)"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Announced",
+      "sector": "Institutions & governance",
+      "location": "Abia",
+      "date": "2026-02",
+      "title": "Tinubu at Umuahia: South-East critical to $1trn economy goal; lists federal SE projects",
+      "figure": "$3bn Eastern Rail Line (2,044km); $508m Eastern ports",
+      "description": "Through Science Minister Kingsley Udeh at the Ihejirika 70th birthday lecture in Umuahia, Tinubu said the South-East is critical to the $1 trillion economy target and cited the Enugu airport concession, an airport project at Usulu (Isiala Ngwa), SEDC, the Port Harcourt-Aba rail line, $3bn approved for the 2,044km Eastern Rail Line and $508m for Eastern ports.",
+      "creditedTo": "Presidency (represented by Minister Kingsley Udeh)",
+      "sources": [
+        {
+          "url": "https://von.gov.ng/president-tinubu-reaffirms-commitment-to-southeast-development-economic-growth/",
+          "label": "VON: President Tinubu reaffirms commitment to Southeast development, economic growth (17 Feb 2026)"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "Anambra",
+      "date": "2025-05",
+      "title": "Tinubu's Anambra visit: 'I salute the enterprise of the South east'",
+      "figure": "",
+      "description": "On 8 May 2025 Tinubu made a one-day working visit to Anambra, inaugurated Governor Soludo's projects (new Government House, Ekwueme Square refurbishment, Emeka Anyaoku Institute) and said: 'We will continue to partner the state and the South east to protect our people.'",
+      "creditedTo": "Presidency",
+      "sources": [
+        {
+          "url": "https://www.arise.tv/tinubu-lauds-governor-soludo-as-he-inaugurates-monumental-anambra-projects",
+          "label": "Arise: Tinubu lauds Governor Soludo as he inaugurates monumental Anambra projects (9 May 2025)"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Announced",
+      "sector": "Institutions & governance",
+      "location": "Enugu",
+      "date": "2025-01",
+      "title": "Tinubu's first official visit to Enugu: pledges on Eastern rail and Anambra Basin",
+      "figure": "150 patrol vehicles (state project)",
+      "description": "On 4 January 2025, his first official visit to Enugu as President, Tinubu commissioned state projects by Governor Mbah (a Smart School, 150 AI-equipped patrol vehicles, the International Conference Centre) and pledged to complete the Port Harcourt-Maiduguri Eastern rail line and develop the Anambra Basin's oil and gas. 'I inherited some of these critical problems and am committed to solving them,' he said of the rail line.",
+      "creditedTo": "Presidency",
+      "sources": [
+        {
+          "url": "https://thisdaylive.com/index.php/2025/01/07/in-first-official-visit-to-enugu-tinubu-vows-to-develop-seast",
+          "label": "ThisDay: In first official visit to Enugu, Tinubu vows to develop S'East (7 Jan 2025)"
+        },
+        {
+          "url": "https://thisdaylive.com/index.php/2025/01/13/tinubu-is-committed-to-seast-devt-arthur-eze-declares",
+          "label": "ThisDay: Tinubu is committed to S'East devt, Arthur Eze declares"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Announced",
+      "sector": "Institutions & governance",
+      "location": "Enugu",
+      "date": "2026-04",
+      "title": "Tinubu to Mbah delegation: 'You have been a transformative leader'",
+      "figure": "",
+      "description": "Receiving an Enugu appreciation delegation at the Villa in April 2026, Tinubu praised Governor Mbah and pledged to expedite the Port Harcourt-Enugu rail line. Mbah thanked him for the Enugu airport concession, SEDC, the gas pipeline extension to Enugu, Enugu-Port Harcourt and Enugu-Onitsha expressway works and appointments including the Chief of the Air Staff, and declared Enugu's support for his 2027 re-election.",
+      "creditedTo": "Presidency; Enugu State Government",
+      "sources": [
+        {
+          "url": "https://allafrica.com/stories/202604220122.html",
+          "label": "AllAfrica/Premium Times: Tinubu lauds Mbah's strides as Enugu gov re-echoes support (22 Apr 2026)"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "Abia, Anambra, Ebonyi, Enugu, Imo",
+      "date": "2026-07",
+      "title": "South-East Governors' Forum endorses Tinubu for 2027, citing SEDC and rail",
+      "figure": "$3bn proposed Eastern Rail Corridor",
+      "description": "Imo Governor Hope Uzodimma, chairman of the South-East Governors' Forum, announced in Owerri that all five governors back Tinubu's re-election, citing the SEDC Act (July 2024), the upgrade and commercial resumption of the Port Harcourt-Aba rail line, the proposed $3bn Eastern Rail Corridor and road projects including Second Niger Bridge access roads. Former South-East governors also endorsed him in April 2026.",
+      "creditedTo": "South-East Governors' Forum",
+      "sources": [
+        {
+          "url": "https://fmino.gov.ng/2027-south-east-governors-endorse-tinubu-uzodimma-reaffirms-charter-of-equity/",
+          "label": "FMINO: 2027: South-East governors endorse Tinubu, Uzodimma reaffirms charter of equity (23 Jul 2026)"
+        },
+        {
+          "url": "https://www.channelstv.com/2026/04/07/south-east-ex-governors-meet-in-enugu-back-tinubus-re-election",
+          "label": "Channels: South-East ex-governors meet in Enugu, back Tinubu's re-election (7 Apr 2026)"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "Enugu, Anambra",
+      "date": "2026-03",
+      "title": "Governors Mbah and Soludo cite federal actions in backing Tinubu",
+      "figure": "",
+      "description": "Enugu's Peter Mbah, who left the PDP for the APC on 14 October 2025, said in January 2026 the South-East's endorsement of Tinubu is 'rooted in facts', citing gas prospecting, the Eastern rail line being 'back on the national map' and the Enugu airport concession. At his second-term inauguration (March 2026) Anambra's Soludo (APGA) praised Tinubu as 'cerebral, courageous and patriotic', citing inclusion of the South-East in gas and rail master plans and approval to dredge the River Niger for the Onitsha port.",
+      "creditedTo": "Enugu and Anambra State Governments",
+      "sources": [
+        {
+          "url": "https://allafrica.com/stories/202601120558.html",
+          "label": "AllAfrica/ThisDay: Gov Mbah lists reasons, gains of Tinubu's endorsement (12 Jan 2026)"
+        },
+        {
+          "url": "https://www.icirnigeria.org/mbah-dumps-pdp-for-apc-says-move-about-connecting-enugu-with-abuja/",
+          "label": "ICIR: Mbah dumps PDP for APC (14 Oct 2025)"
+        },
+        {
+          "url": "https://von.gov.ng/anambra-governor-hails-president-tinubus-courage-begins-second-term/",
+          "label": "VON: Anambra governor hails President Tinubu's courage, begins second term (18 Mar 2026)"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Completed",
+      "sector": "Institutions & governance",
+      "location": "South-East",
+      "date": "2024-07",
+      "title": "Ohanaeze: SEDC Act a 'quantum leap'; later urges proper funding",
+      "figure": "",
+      "description": "Ohanaeze Ndigbo's publicity secretary Alex Ogbonnia called Tinubu's assent to the SEDC bill 'a quantum leap, a hope renewal and a significant part of a new beginning' (July 2024). In February 2026 President-General John Azuta-Mbata urged Tinubu to fund SEDC 'appropriately and sustained' to heal 'feelings of exclusion, neglect and unresolved grievances'.",
+      "creditedTo": "Ohanaeze Ndigbo Worldwide",
+      "sources": [
+        {
+          "url": "https://gazettengr.com/ohanaeze-lauds-tinubu-for-assenting-to-south-east-commission-bill/",
+          "label": "Peoples Gazette: Ohanaeze lauds Tinubu for assenting to South-East commission bill (25 Jul 2024)"
+        },
+        {
+          "url": "https://allafrica.com/stories/202602050276.html",
+          "label": "AllAfrica/ThisDay: 'Fund South-East Commission to heal old wounds,' Ohanaeze tells Tinubu (5 Feb 2026)"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "kind": "quote",
+      "rank": null,
+      "theme": "",
+      "status": "Ongoing",
+      "sector": "Student loans (NELFUND)",
+      "location": "South-East",
+      "date": "2026-07",
+      "title": "Sawyerr at UNN Enugu: 'we need more from the Southeast'",
+      "figure": "National, as cited: about 1.7m applications; over N282bn disbursed to 288 institutions; over N183bn in fees; nearly N98bn in upkeep.",
+      "description": "Speaking at the Renewed Hope Students' Engagement and Digital Acceleration Programme for the South-East at UNN's Enugu campus on 31 July 2026, NELFUND MD Akintunde Sawyerr said South-East participation remained below expectations. He told students: 'This is not a trick, it's not a trap... but we need more from the Southeast.'",
+      "creditedTo": "NELFUND",
+      "sources": [
+        {
+          "url": "https://saharareporters.com/2026/07/31/south-east-lags-behind-student-loan-applications-nigerian-agency-nelfund-disburses",
+          "label": "Sahara Reporters: South-East lags behind in student loan applications (31 Jul 2026)"
+        }
+      ]
+    }
+  ]
+}

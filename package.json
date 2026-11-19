@@ -1,0 +1,10 @@
+{
+  "name": "sepaf-evidence-bank",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A one-page evidence bank for the South-East Political Appointees Forum.",
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
